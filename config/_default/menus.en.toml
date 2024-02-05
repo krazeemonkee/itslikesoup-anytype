@@ -15,9 +15,9 @@
   pageRef = "posts"
   weight = 10
 
-# [[main]]
-#  name = "categories"
-#  weight = 20
+ [[main]]
+  name = "categories"
+  weight = 20
 
 [[main]]
   name = "anytype"
@@ -31,16 +31,17 @@
   pageRef = "posts"
   weight = 20
 
-[[subnavigation]]
-  name = "in the beginning, there was soup"
+ [[subnavigation]]
+  name = ""
+# name = "in the beginning, there was soup"
   pageRef = "tags/interesting-topic"
   weight = 10
 
-[[subnavigation]]
-  name = "youtube"
-  pre = "youtube"
-  pageRef = "categories/awesome"
-  weight = 20
+# [[subnavigation]]
+#  name = "youtube"
+#  pre = "youtube"
+#  pageRef = "categories/awesome"
+#  weight = 20
 
 [[main]]
   name = "categories"
@@ -59,11 +60,11 @@
 
 
  [[footer]]
-   name = "Tags"
+   name = "tags"
    pageRef = "tags"
    weight = 10
 
  [[footer]]
-   name = "Categories"
+   name = "categories"
    pageRef = "categories"
    weight = 20
