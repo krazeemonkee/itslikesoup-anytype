@@ -31,9 +31,14 @@
   pageRef = "posts"
   weight = 20
 
-  [[main]]
-   name = "programs"
-   weight = 20
+#[[main]]
+#  name = "catalog"
+#  weight = 20
+
+[[main]]
+  name = "programs"
+#  parent = "catalog"
+  weight = 20
 
  [[main]]
    name = "anytype"
@@ -47,11 +52,18 @@
    pageRef = "posts"
    weight = 20
 
- [[subnavigation]]
+[[subnavigation]]
   name = ""
 # name = "in the beginning, there was soup"
   pageRef = "tags/interesting-topic"
   weight = 10
+
+[[main]]
+# name = "youtube"
+# identifier = "youtube"
+  pre = "youtube"
+  url = "https://youtube.com/itslikesoup"
+  weight = 99
 
 # [[subnavigation]]
 #  name = "youtube"
