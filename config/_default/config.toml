@@ -25,6 +25,9 @@ buildFuture = false
   category = "categories"
   author = "authors"
   series = "series"
+  program = "programs"
+  version = "versions"
+  language = "languages"
 
 [sitemap]
   changefreq = 'daily'

@@ -31,6 +31,22 @@
   pageRef = "posts"
   weight = 20
 
+  [[main]]
+   name = "programs"
+   weight = 20
+
+ [[main]]
+   name = "anytype"
+   parent = "programs"
+   pageRef = "posts"
+   weight = 20
+
+ [[main]]
+   name = "hugo"
+   parent = "programs"
+   pageRef = "posts"
+   weight = 20
+
  [[subnavigation]]
   name = ""
 # name = "in the beginning, there was soup"
