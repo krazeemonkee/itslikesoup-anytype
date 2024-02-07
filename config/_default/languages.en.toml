@@ -8,13 +8,13 @@ displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January, 2006"
-logo = "img/soup-space-bowl.png"
+logo = "img/identity/profile-pics/soup-space-bowl.png"
 description = "in the beginning, there was soup"
 secondaryLogo = ""
 
 [author]
 name = "kreme"
-image = "img/mr-international.png"
+image = "img/identity/profile-pics/mr-international.png"
 headline = "man ñ machine"
 bio = "create the world you wish existed"
 
