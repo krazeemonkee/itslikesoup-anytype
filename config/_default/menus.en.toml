@@ -16,6 +16,11 @@ pageRef = "posts"
 weight = 10
 
 [[main]]
+name = "about"
+pageRef = "about"
+weight = 15
+
+[[main]]
 name = "categories"
 weight = 20
 
@@ -40,21 +45,21 @@ weight = 20
 #  parent = "catalog"
 #  weight = 20
 
-[[main]]
-name = "anytype"
-parent = "programs"
-pageRef = "posts"
-weight = 20
+#[[main]]
+#name = "anytype"
+#parent = "programs"
+#pageRef = "posts"
+#weight = 20
 
-[[main]]
-name = "hugo"
-parent = "programs"
-pageRef = "posts"
-weight = 20
+#[[main]]
+#name = "hugo"
+#parent = "programs"
+#pageRef = "posts"
+#weight = 20
 
 [[subnavigation]]
-#name = ""
-name = "in the beginning, there was soup"
+name = ""
+#name = "in the beginning, there was soup"
 pageRef = "tags/interesting-topic"
 weight = 10
 
