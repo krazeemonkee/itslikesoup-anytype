@@ -11,59 +11,59 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "posts"
-  pageRef = "posts"
-  weight = 10
-
- [[main]]
-  name = "categories"
-  weight = 20
+name = "posts"
+pageRef = "posts"
+weight = 10
 
 [[main]]
-  name = "anytype"
-  parent = "categories"
-  pageRef = "posts"
-  weight = 20
+name = "categories"
+weight = 20
 
-[[main]]
-  name = "journal"
-  parent = "categories"
-  pageRef = "posts"
-  weight = 20
+#[[main]]
+#name = "anytype"
+#parent = "categories"
+#pageRef = "posts"
+#weight = 20
+
+#[[main]]
+#name = "journal"
+#parent = "categories"
+#pageRef = "posts"
+#weight = 20
 
 #[[main]]
 #  name = "catalog"
 #  weight = 20
 
-[[main]]
-  name = "programs"
+#[[main]]
+#  name = "programs"
 #  parent = "catalog"
-  weight = 20
+#  weight = 20
 
- [[main]]
-   name = "anytype"
-   parent = "programs"
-   pageRef = "posts"
-   weight = 20
+[[main]]
+name = "anytype"
+parent = "programs"
+pageRef = "posts"
+weight = 20
 
- [[main]]
-   name = "hugo"
-   parent = "programs"
-   pageRef = "posts"
-   weight = 20
+[[main]]
+name = "hugo"
+parent = "programs"
+pageRef = "posts"
+weight = 20
 
 [[subnavigation]]
-  name = ""
-# name = "in the beginning, there was soup"
-  pageRef = "tags/interesting-topic"
-  weight = 10
+#name = ""
+name = "in the beginning, there was soup"
+pageRef = "tags/interesting-topic"
+weight = 10
 
 [[main]]
 # name = "youtube"
 # identifier = "youtube"
-  pre = "youtube"
-  url = "https://youtube.com/itslikesoup"
-  weight = 99
+pre = "youtube"
+url = "https://youtube.com/itslikesoup"
+weight = 99
 
 # [[subnavigation]]
 #  name = "youtube"
@@ -72,14 +72,14 @@
 #  weight = 20
 
 [[main]]
-  name = "categories"
-  pageRef = "categories"
-  weight = 20
+name = "categories"
+pageRef = "categories"
+weight = 20
 
 [[main]]
-  name = "tags"
-  pageRef = "tags"
-  weight = 30
+name = "tags"
+pageRef = "tags"
+weight = 30
 
 
 # -- Footer Menu --
@@ -87,12 +87,12 @@
 # the copyright notice. Configure as per the main menu above.
 
 
- [[footer]]
-   name = "tags"
-   pageRef = "tags"
-   weight = 10
+[[footer]]
+name = "tags"
+pageRef = "tags"
+weight = 10
 
- [[footer]]
-   name = "categories"
-   pageRef = "categories"
-   weight = 20
+[[footer]]
+name = "categories"
+pageRef = "categories"
+weight = 20
