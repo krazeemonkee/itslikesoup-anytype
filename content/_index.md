@@ -1,6 +1,4 @@
 ---
-title: this is anytype
+title: anytype
 description: knowledgebase
 ---
-
-anytype, helloj?
