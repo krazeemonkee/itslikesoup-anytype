@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>three on itslikesoup</title>
+    <link>https://anytype.itslikesoup.net/tags/three/</link>
+    <description>Recent content in three on itslikesoup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 kreme</copyright>
+    <lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/tags/three/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>👋🏽 howdy world, day 2</title>
+      <link>https://anytype.itslikesoup.net/posts/howdy-world-2/</link>
+      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/howdy-world-2/</guid>
+      <description>one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen twenty twenty-one twenty-two</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/howdy-world-2/feature.gif" />
+    </item>
+    
+  </channel>
+</rss>
