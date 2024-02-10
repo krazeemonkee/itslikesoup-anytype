@@ -1,4 +1,5 @@
 [build]
 publish = "public"
-command = "hugo version v0.110.0+extended"
+command = "hugo -t blowfish"
+# command = "hugo version v0.110.0+extended"
 # command = "hugo version v0.110.0"
