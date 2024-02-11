@@ -1,0 +1,14 @@
+<article class="prose dark:prose-invert max-w-full">
+    {{ with .Title }}
+    <header>
+        <h1>{{ . | emojify }}</h1>
+    </header>
+    {{ end }}
+    <section>{{ .Content | emojify }}</section>
+</article>
+<h2 style="font-size: 20px; margin-top: -20px; font-style: italic">
+    organize anything
+</h2>
+<div class="mt-1 text-2xl">{{ partialCached "author-links.html" . }}</div>
+
+<section>{{ partial "recent-articles/main.html" . }}</section>
