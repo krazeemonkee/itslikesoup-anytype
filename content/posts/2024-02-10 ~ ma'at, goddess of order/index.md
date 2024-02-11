@@ -6,9 +6,10 @@ description: ""
 category: [""]
 tags: [""]
 programs: [""]
-slug: ""
+slug: "origin"
 ---
 
+## ma'at
 Ma'at was the goddess of truth, justice, balance, and most importantly - order. In paintings, she was depicted as a woman who is either sitting or standing with an ostrich feather on her head and, in some cases, she was depicted with wings.
 
 <img src="ma'at-2d.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
@@ -26,3 +27,5 @@ Ma'at was the goddess of truth, justice, balance, and most importantly - order. 
   </div>
 
 </div>
+
+## set
