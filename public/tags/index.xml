@@ -7,36 +7,6 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 kreme</copyright>
-    <lastBuildDate>Mon, 05 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>gif</title>
-      <link>https://anytype.itslikesoup.net/tags/gif/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://anytype.itslikesoup.net/tags/gif/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>three</title>
-      <link>https://anytype.itslikesoup.net/tags/three/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://anytype.itslikesoup.net/tags/three/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>two</title>
-      <link>https://anytype.itslikesoup.net/tags/two/</link>
-      <pubDate>Mon, 05 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://anytype.itslikesoup.net/tags/two/</guid>
-      <description></description>
-      
-    </item>
-    
+    <atom:link href="https://anytype.itslikesoup.net/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
