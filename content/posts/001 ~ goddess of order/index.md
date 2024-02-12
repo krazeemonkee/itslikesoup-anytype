@@ -34,13 +34,13 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
 
 ## ma'at, goddess of order
 
-<div id="maat" style="display: flex; justify-content: space-between;">
+<div id="maat" style="display: block;">
 
-  <div id="left1" style="width: 48%;">
-    <img src="maat-icon-right.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
+  <div id="top1">
+    <img src="maat-icon.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
   </div>
 
-  <div id="right1" style="width: 48%;">
+  <div id="bottom1">
     <p style="padding: 0; margin: 12px 0 0 0;">long ago, in ancient egypt, no deity was more highly revered by the people + pharaohs than <b>ma'at</b>, <i>goddess of order</i> ✨ it was her who awaited them all at the end of the 42 gates to heaven where her fairness would grant them access to the after-life so long as their sin-filled hearts didn't outweigh an ostrich's feather 🪶 she was the personification of truth + justice, a role model of all the principles that mothers would teach their children to embody in order to foster a morally-rich civilization that can earn their right to live eternally 💫 it was this <i>godess of order</i> that maintained the harmon y of the rising sun god ra [god of order] from the rising from the horizon from nun, the chaotic body of water from which ra rises ~ she was the restorer of balance in the fight of chaos [isfret] </p>
 
   </div>
@@ -51,25 +51,13 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
 <br>
 
 ## the life changing magic of ...
-<div id="kondo" style="display: flex; justify-content: space-between;">
-
-  <div id="left2" style="width: 48%;">
-    <p style="padding: 0; margin: 6px 0 0 0;"><b>tidying up</b>, <i>as defined by <b>chatgpt</b> is</i> <br>
-    <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, orderly, and free from clutter ~ this process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment ~ tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired ~ it contributes to a sense of order, promotes efficiency, and can have positive effects on mental well-being ~</mark></p>
-  </div>
-
-  <div id="right2" style="width: 48%;">
-    <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
-  </div>
-
-</div>
 
 <div id="kondo" style="display: block;">
-    <div id="left2">
+    <div id="top2">
         <p style="padding: 0; margin: 6px 0 0 0;"><b>tidying up</b>, <i>as defined by <b>chatgpt</b> is</i> <br>
         <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, orderly, and free from clutter ~ this process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment ~ tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired ~ it contributes to a sense of order, promotes efficiency, and can have positive effects on mental well-being ~</mark></p>
     </div>
-  <div id="right2">
+  <div id="bottom2">
     <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="book cover of marie kondo's book, the life-changing magic of tidying up ~ the japanese art of decluttering and organizing" >
   </div>
 
@@ -93,6 +81,37 @@ style="display: block; margin: auto;"
 
 
 <!--
+
+SIDE-BY-SIDE
+
+<div id="maat" style="display: flex; justify-content: space-between;">
+
+  <div id="left1" style="width: 48%;">
+    <img src="maat-icon-right.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
+  </div>
+
+  <div id="right1" style="width: 48%;">
+    <p style="padding: 0; margin: 12px 0 0 0;">long ago, in ancient egypt, no deity was more highly revered by the people + pharaohs than <b>ma'at</b>, <i>goddess of order</i> ✨ it was her who awaited them all at the end of the 42 gates to heaven where her fairness would grant them access to the after-life so long as their sin-filled hearts didn't outweigh an ostrich's feather 🪶 she was the personification of truth + justice, a role model of all the principles that mothers would teach their children to embody in order to foster a morally-rich civilization that can earn their right to live eternally 💫 it was this <i>godess of order</i> that maintained the harmon y of the rising sun god ra [god of order] from the rising from the horizon from nun, the chaotic body of water from which ra rises ~ she was the restorer of balance in the fight of chaos [isfret] </p>
+
+  </div>
+
+</div>
+
+<div id="kondo" style="display: flex; justify-content: space-between;">
+
+  <div id="left2" style="width: 48%;">
+    <p style="padding: 0; margin: 6px 0 0 0;"><b>tidying up</b>, <i>as defined by <b>chatgpt</b> is</i> <br>
+    <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, orderly, and free from clutter ~ this process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment ~ tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired ~ it contributes to a sense of order, promotes efficiency, and can have positive effects on mental well-being ~</mark></p>
+  </div>
+
+  <div id="right2" style="width: 48%;">
+    <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
+  </div>
+
+</div>
+
+
+
 verbatim:
 <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, orderly, and free from clutter. This process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment. Tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired. It contributes to a sense of order, promotes efficiency, and can have positive effects on mental well-being.</mark></p>
 <p>to organize or put things in their place, in order ~</p>
@@ -206,6 +225,8 @@ The key is that Set directly causes isfet through his actions. Isfet refers to t
 unused assets ~
 
 <img src="maat-icon.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
+
+<img src="maat-icon-right.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
 
 ![](ma'at-2d.png)
 -->
