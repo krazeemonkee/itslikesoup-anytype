@@ -64,22 +64,23 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
 
 </div>
 
-<div id="kondo" style="display: flex; justify-content: space-between;">
-  <div id="left2" style="width: 48%;">
-    <p style="padding: 0; margin: 6px 0 0 0;"><b>tidying up</b>, <i>as defined by <b>chatgpt</b> is</i> <br>
-    <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, orderly, and free from clutter ~ this process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment ~ tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired ~ it contributes to a sense of order, promotes efficiency, and can have positive effects on mental well-being ~</mark></p>
-  </div>
-
-  <div id="right2" style="width: 48%;">
-    <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
+<div id="kondo" style="display: block;">
+    <div id="left2">
+        <p style="padding: 0; margin: 6px 0 0 0;"><b>tidying up</b>, <i>as defined by <b>chatgpt</b> is</i> <br>
+        <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, orderly, and free from clutter ~ this process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment ~ tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired ~ it contributes to a sense of order, promotes efficiency, and can have positive effects on mental well-being ~</mark></p>
+    </div>
+  <div id="right2">
+    <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="book cover of marie kondo's book, the life-changing magic of tidying up ~ the japanese art of decluttering and organizing" >
   </div>
 
 </div>
 
 
-
-
-
+<!--
+<div id="kondo" style="display: flex; justify-content: space-between;">
+width="2000px"
+style="display: block; margin: auto;"
+-->
 
 ## enter anytype
 <img src="anytype coa.webp" alt="Additional Image 2" width="700" style="display: block; margin: auto;">
