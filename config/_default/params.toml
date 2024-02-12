@@ -39,7 +39,7 @@ showAuthor = false
 showHero = true
 layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = false
-showBreadcrumbs = true
+showBreadcrumbs = false
 showDraftLabel = true
 showEdit = false
 editAppendPath = true
@@ -81,7 +81,7 @@ excludedKinds = [ "taxonomy", "term" ]
 [taxonomy]
 showTermCount = true
 showHero = ""
-showBreadcrumbs = true
+showBreadcrumbs = false
 showViews = false
 showLikes = false
 showTableOfContents = false
@@ -89,7 +89,7 @@ cardView = false
 
 [term]
 showHero = false
-showBreadcrumbs = false
+showBreadcrumbs = ""
 showViews = false
 showLikes = false
 showTableOfContents = true

@@ -4,8 +4,9 @@ date: {{ .Date }}
 draft: false
 description: ""
 category: [""]
-tags: ["origin"]
+tags: [""]
 programs: ["anytype"]
+serial: ""
 slug: ""
 references:
   - name: ""

@@ -1,12 +1,14 @@
 ---
-title: "goddess of order"
+# title: "goddess of order"
+# title: "the power of order"
 # title: "order vs chaos"
 date: 2024-02-10T04:42:16-08:00
 draft: false
 description: ""
-category: [""]
+categories: ["overview"]
 tags: [""]
 programs: [""]
+serial: "001"
 slug: "origin"
 featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
 references:
@@ -25,7 +27,54 @@ references:
   - name: "info on set 2"
   - "https://claude.ai/chat/4810c892-cb7c-45c8-a084-91405df39f74"
 ---
-the life-changing magic of tidying up: the japanese art of decluttering and organizing
+
+> **order** ~ <br>
+> ~ organization via systematic arrangement of items in relation to one another <br>
+~ grouping items based on a particular sequence, pattern, or attributes <br>
+~ shifts a system's entropic state further from chaos + randomness <br>
+
+
+order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace can flourish 💐 order shifts the entropic state of a system further away from chaos + randomness, allowing one the opportunity to act/minister desired intentions 🧘🏻‍♂️ in an ordered system, all individual pieces are accounted for where the pie as a whole can be seen from above, revealing the relations connecting all the components ⚙️ order is a state of being that's nurtured  trul y a super-power that
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
+> **order** ~ <br>
+> ~ organization via systematic arrangement of items in relation to one another <br>
+~ grouping items based on a particular sequence, pattern, or attributes <br>
+~ shifts a system's entropic state further from chaos and randomness <br>
+
+{{< lead >}}
+*order* ~ <br>
+~ organization via systematic arrangement of items in relation to one another <br>
+~ grouping items based on a particular sequence, pattern, or attributes <br>
+~ shifts a system's entropic state further from chaos + randomness <br>
+{{< /lead >}}
+
+{{< alert icon="heart" iconColor="red" cardColor="#222222" textColor="#ffffff" >}}
+*order* ~ <br>
+~ organization via systematic arrangement of items in relation to one another <br>
+~ grouping items based on a particular sequence, pattern, or attributes <br>
+~ shifts a system's entropic state further from chaos + randomness <br>
+{{< /alert >}}
 
 
 ## ma'at
@@ -61,15 +110,17 @@ the life-changing magic of tidying up: the japanese art of decluttering and orga
 <img src="maat-wings.png" alt="Additional Image 2" width="700" style="display: block; margin: auto;">
 
 
+the life-changing magic of tidying up: the japanese art of decluttering and organizing
+
+
 the following is my [review](https://www.producthunt.com/products/anytype/reviews) left on producthunt the day of their public launch
 
-{{< alert icon="heart" iconColor="red" cardColor="#ffffff" textColor="#000000" >}}
+{{< alert icon="heart" iconColor="red" cardColor="#fff8d6" textColor="#000000" >}}
 "the legos of all personal knowledge management systems 🧠 it unifies the utility of notion w/ the heroic principles of obsidian to provide an ultra granular/customizable interface that allows you organize/systemize just about any type of data you can throw at it 🗂 while notion excels at creating/managing databases + obsidian shines at seamlessly composing + linking documentations, anytype is the perfect union of the two w/ its space~wide parameter system 🧱 every unit of information is an object, every object has a type, and relations define + link objects 🏗 the power of modularity this basic system provides is what truly makes anytype the legos of all pkm's/second~brain apps 👑 at the core of its superpowers are its superhero principles ~ local first, peer2peer, encrypted, open~sourced, and free [limitless functionality] 💎 anytype has become the focal point of my entire [productivity] system + it is impossible to overstate how much i admire/adore the product the fine folks behind anytype have created 🙏🏽 thank you, anytype team ✨"
 
 {{< /alert >}}
 
-
-
+-->
 
 
 
@@ -121,4 +172,21 @@ unused assets ~
 <img src="maat-icon.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
 
 ![](ma'at-2d.png)
+-->
+
+<!--
+scrapped passages
+~ provides a comprehensive overview, attains clarity in understanding, adds efficiency to processes, and increases predictability of outcomes
+
+the arrangement or disposition of people or things in relation to each other according to a particular sequence, pattern, or method.
+
+Organization or System: Order can describe a state of organization or a systematic arrangement, often implying a lack of chaos or randomness.
+
+{{< alert icon="heart" iconColor="red" cardColor="#ff5050" textColor="#ffffff" >}}
+order ~ <br>
+~ organization via systematic arrangement of items in relation to one another <br>
+~ grouping items based on a particular sequence, pattern, or attributes <br>
+~ shifts a system's entropic state further from chaos and randomness <br>
+{{< /alert >}}
+
 -->

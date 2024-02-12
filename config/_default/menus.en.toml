@@ -22,13 +22,14 @@ weight = 10
 
 [[main]]
 name = "categories"
+pageRef = "categories"
 weight = 20
 
-#[[main]]
-#name = "anytype"
-#parent = "categories"
-#pageRef = "posts"
-#weight = 20
+[[main]]
+name = "overview"
+parent = "categories"
+pageRef = "categories/overview"
+weight = 20
 
 #[[main]]
 #name = "journal"
@@ -60,8 +61,8 @@ weight = 20
 [[subnavigation]]
 name = ""
 #name = "in the beginning, there was soup"
-pageRef = "tags/interesting-topic"
-weight = 10
+#pageRef = "tags/interesting-topic"
+#weight = 10
 
 [[main]]
 # name = "youtube"
@@ -76,10 +77,11 @@ weight = 99
 #  pageRef = "categories/awesome"
 #  weight = 20
 
-[[main]]
-name = "categories"
-pageRef = "categories"
-weight = 20
+# below, dupe
+# [[main]]
+# name = "categories"
+# pageRef = "categories"
+# weight = 20
 
 [[main]]
 name = "tags"
