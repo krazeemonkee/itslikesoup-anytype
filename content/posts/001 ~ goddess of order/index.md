@@ -32,7 +32,7 @@ references:
 
 order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can flourish 💐 order shifts the entropic state of a system further away from chaos + randomness, allowing one the golden opportunity to reclaim the reigns of destiny + bend life at their will 🌬 in an ordered system, all individual pieces are fully accounted for where the composition as a whole can be seen from above, revealing the relations connecting all of its components 🐝 order is a magical state of being that allows one to harness intention...
 
-## ma'at
+## ma'at, goddess of order
 
 <div id="maat" style="display: flex; justify-content: space-between;">
 
@@ -47,7 +47,7 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
 
 </div>
 
-## set
+## set, god of chaos
 
 <div id="set" style="display: flex; justify-content: space-between;">
 
@@ -56,28 +56,29 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
   </div>
 
   <div id="right2" style="width: 48%;">
-    <img src="set-icon-left.png" alt="Additional Image 2" width="200" style="display: block; margin: auto;">
+    <img src="set-icon-left.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
   </div>
 
 </div>
 
-<div id="kondo" style="display: flex; justify-content: space-between;">
+<br>
+<br>
 
+## the life changing magic of ...
+<div id="kondo" style="display: flex; justify-content: space-between;">
   <div id="left3" style="width: 48%;">
-    <img src="maat-icon-right.png" alt="Additional Image 2" width="100" style="display: block; margin: auto;">
+    <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
   </div>
 
   <div id="right3" style="width: 48%;">
-    <p>the life-changing magic of tidying up: the japanese art of decluttering and organizing</p>
+    <p>tidying up is to organize + put things in order</p>
 
   </div>
 
 </div>
 
-
-
-
-
+## enter anytype
+<img src="anytype coa.webp" alt="Additional Image 2" width="700" style="display: block; margin: auto;">
 
 
 
