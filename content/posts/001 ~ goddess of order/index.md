@@ -2,7 +2,7 @@
 # title: "goddess of order"
 # title: "the power of order"
 # title: "order vs chaos"
-date: 2024-02-10T04:42:16-08:00
+date: 2024-02-11T04:42:16-08:00
 draft: false
 description: ""
 categories: ["overview"]
@@ -28,21 +28,51 @@ references:
   - "https://claude.ai/chat/4810c892-cb7c-45c8-a084-91405df39f74"
 ---
 
-> **order** ~ <br>
-> ~ organization via systematic arrangement of items in relation to one another <br>
-~ grouping items based on a particular sequence, pattern, or attributes <br>
-~ shifts a system's entropic state further from chaos + randomness <br>
+## the power of order
 
+order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can flourish 💐 order shifts the entropic state of a system further away from chaos + randomness, allowing one the golden opportunity to reclaim the reigns of destiny + bend life at their will 🌬 in an ordered system, all individual pieces are fully accounted for where the composition as a whole can be seen from above, revealing the relations connecting all of its components 🐝 order is a magical state of being that allows one to harness intention...
 
-order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace can flourish 💐 order shifts the entropic state of a system further away from chaos + randomness, allowing one the opportunity to act/minister desired intentions 🧘🏻‍♂️ in an ordered system, all individual pieces are accounted for where the pie as a whole can be seen from above, revealing the relations connecting all the components ⚙️ order is a state of being that's nurtured  trul y a super-power that
+## ma'at
 
+<div id="maat" style="display: flex; justify-content: space-between;">
 
+  <div id="left1" style="width: 48%;">
+    <img src="maat-icon-right.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
+  </div>
 
+  <div id="right1" style="width: 48%;">
+    <p>long ago, in ancient egypt, no deity was more highly revered by the people + pharaohs than <b>ma'at</b>, <i>goddess of order</i> ✨ it was her who awaited them all at the 42 gates of heaven where her fairness would grant them access to the after-life so long their sin-filled hearts didn't outweigh an ostrich's feather 🪶 she was the personification of truth + justice, a role model of all the principles that mothers would teach their children to embody in order to foster a morally-rich civilization that can earn their right to live eternally 💫 it was this <i>godess of order</i> that maintained the harmon y of the rising sun god ra [god of order] from the rising from the horizon from nun, the chaotic body of water from which ra rises ~ she was the restorer of balance in the fight of chaos [isfret] </p>
 
+  </div>
 
+</div>
 
+## set
 
+<div id="set" style="display: flex; justify-content: space-between;">
 
+  <div id="left2" style="width: 48%;">
+    <p>Set (/sɛt/; Egyptological: Sutekh - swtẖ ~ stẖ[a] or Greek: Seth /sɛθ/) is a god of deserts, storms, disorder, violence, and foreigners </p>
+  </div>
+
+  <div id="right2" style="width: 48%;">
+    <img src="set-icon-left.png" alt="Additional Image 2" width="200" style="display: block; margin: auto;">
+  </div>
+
+</div>
+
+<div id="kondo" style="display: flex; justify-content: space-between;">
+
+  <div id="left3" style="width: 48%;">
+    <img src="maat-icon-right.png" alt="Additional Image 2" width="100" style="display: block; margin: auto;">
+  </div>
+
+  <div id="right3" style="width: 48%;">
+    <p>the life-changing magic of tidying up: the japanese art of decluttering and organizing</p>
+
+  </div>
+
+</div>
 
 
 
@@ -57,6 +87,10 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
 
 
 <!--
+all those who have departed the earthly realm, where through truth + justice,
+
+<i>goddess of truth, balance, and <b>order</b></i>
+
 > **order** ~ <br>
 > ~ organization via systematic arrangement of items in relation to one another <br>
 ~ grouping items based on a particular sequence, pattern, or attributes <br>
@@ -79,38 +113,15 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
 
 ## ma'at
 
-<div id="maat" style="display: flex; justify-content: space-between;">
+Ma'at was the goddess who personified the concepts of truth, justice, harmony, law, morality, balance, and most importantly - order. In paintings, she was depicted as a woman who is either sitting or standing with an ostrich feather on her head and, in some cases, she was depicted with wings
 
-  <div id="left1" style="width: 48%;">
-    <img src="maat-icon-right.png" alt="Additional Image 2" width="200" style="display: block; margin: auto;">
-  </div>
+<img src="maat-icon.png" alt="Additional Image 2" width="200" style="display: block; margin: auto;">
 
-  <div id="right1" style="width: 48%;">
-    <p>Ma'at was the goddess who personified the concepts of truth, justice, harmony, law, morality, balance, and most importantly - order. In paintings, she was depicted as a woman who is either sitting or standing with an ostrich feather on her head and, in some cases, she was depicted with wings.</p>
-    <img src="maat-icon.png" alt="Additional Image 2" width="200" style="display: block; margin: auto;">
-  </div>
 
-</div>
-
-## set
-
-<div id="set" style="display: flex; justify-content: space-between;">
-
-  <div id="left1" style="width: 48%;">
-    <p>Set (/sɛt/; Egyptological: Sutekh - swtẖ ~ stẖ[a] or Greek: Seth /sɛθ/) is a god of deserts, storms, disorder, violence, and foreigners </p>
-  </div>
-
-  <div id="right2" style="width: 48%;">
-    <img src="set-icon-left.png" alt="Additional Image 2" width="200" style="display: block; margin: auto;">
-  </div>
-
-</div>
 
 <br> <br>
 <img src="maat-wings.png" alt="Additional Image 2" width="700" style="display: block; margin: auto;">
 
-
-the life-changing magic of tidying up: the japanese art of decluttering and organizing
 
 
 the following is my [review](https://www.producthunt.com/products/anytype/reviews) left on producthunt the day of their public launch
