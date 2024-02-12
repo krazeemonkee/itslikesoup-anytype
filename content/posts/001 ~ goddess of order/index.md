@@ -30,7 +30,7 @@ references:
 
 ## the power of order
 
-order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can flourish 💐 order shifts the entropic state of a system further away from chaos + randomness, allowing one the golden opportunity to reclaim the reigns of destiny + bend life at their will 🌬 in an ordered system, all individual pieces are fully accounted for where the composition as a whole can be seen from above, revealing the relations connecting all of its components 🐝 order is a magical state of being that allows one to harness intention...
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify">order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can flourish 💐 order shifts the entropic state of a system further away from chaos + randomness, allowing one the golden opportunity to reclaim the reigns of destiny + bend life at their will 🌬 in an ordered system, all individual pieces are fully accounted for where the composition as a whole can be seen from above, revealing the relations connecting all of its components 🐝 order is a magical state of being that allows one to harness intention...</p>
 
 ## ma'at, goddess of order
 
@@ -41,7 +41,7 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
   </div>
 
   <div id="bottom1">
-    <p style="padding: 0; margin: 12px 0 0 0;">long ago, in ancient egypt, no deity was more highly revered by the people + pharaohs than <b>ma'at</b>, <i>goddess of order</i> ✨ it was her who awaited them all at the end of the 42 gates to heaven where her fairness would grant them access to the after-life so long as their sin-filled hearts didn't outweigh an ostrich's feather 🪶 she was the personification of truth + justice, a role model of all the principles that mothers would teach their children to embody in order to foster a morally-rich civilization that can earn their right to live eternally 💫 it was this <i>godess of order</i> that maintained the harmon y of the rising sun god ra [god of order] from the rising from the horizon from nun, the chaotic body of water from which ra rises ~ she was the restorer of balance in the fight of chaos [isfret] </p>
+    <p style="padding: 0; margin: 12px 0 0 0; text-align: justify">long ago, in ancient egypt, no deity was more highly revered by the people + pharaohs than <b>ma'at</b>, <i>goddess of order</i> ✨ it was her who awaited them all at the end of the 42 gates to heaven where her fairness would grant them access to the after-life so long as their sin-filled hearts didn't outweigh an ostrich's feather 🪶 she was the personification of truth + justice, a role model of all the principles that mothers would teach their children to embody in order to foster a morally-rich civilization that can earn their right to live eternally 💫 it was this <i>godess of order</i> that maintained the harmon y of the rising sun god ra [god of order] from the rising from the horizon from nun, the chaotic body of water from which ra rises ~ she was the restorer of balance in the fight of chaos [isfret] </p>
 
   </div>
 
@@ -54,7 +54,7 @@ order is the soil from which all good things grow 🌱 it cultivates a controlle
 
 <div id="kondo" style="display: block;">
     <div id="top2">
-        <p style="padding: 0; margin: 6px 0 0 0;"><b>tidying up</b>, <i>as defined by <b>chatgpt</b> is</i> <br>
+        <p style="padding: 0; margin: 6px 0 0 0; text-align: justify"><b>tidying up</b>, <i>as defined by <b>chatgpt</b> is</i> <br>
         <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, orderly, and free from clutter ~ this process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment ~ tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired ~ it contributes to a sense of order, promotes efficiency, and can have positive effects on mental well-being ~</mark></p>
     </div>
   <div id="bottom2">
