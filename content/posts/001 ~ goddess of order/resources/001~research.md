@@ -1,3 +1,20 @@
+references:
+  - name: "info on maat 1"
+  - "https://en.wikipedia.org/wiki/Maat"
+
+  - name: "info on maat 2"
+  - "https://egyptianmuseum.org/deities-Maat#:~:text=Ma%27at%20was%20the%20goddess,she%20was%20depicted%20with%20wings."
+
+  - name: "info on maat 3"
+  - "https://legendaryladieshub.com/maat-egyptian-goddess/"
+
+  - name: "info on set 1"
+  - "https://en.wikipedia.org/wiki/Set_(deity)#"
+
+  - name: "info on set 2"
+  - "https://claude.ai/chat/4810c892-cb7c-45c8-a084-91405df39f74"
+
+
 <!-- research
 info maat 1 ~
 Maat or Maʽat (Egyptian: mꜣꜥt /ˈmuʀʕat/, Coptic: ⲙⲉⲓ)[1] comprised the ancient Egyptian concepts of truth, balance, order, harmony, law, morality, and justice. Ma'at was also the goddess who personified these concepts, and regulated the stars, seasons, and the actions of mortals and the deities who had brought order from chaos at the moment of creation. Her ideological opposite was Isfet (Egyptian jzft), meaning injustice, chaos, violence or to do evil.
