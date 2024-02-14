@@ -10,8 +10,13 @@
 # overridden by providing a weight value. The menu will then be
 # ordered by weight from lowest to highest.
 
+# [[main]]
+# name = "📙 posts"
+# pageRef = "posts"
+# weight = 10
+
 [[main]]
-name = "posts"
+name = "📜 content"
 pageRef = "posts"
 weight = 10
 
@@ -21,13 +26,13 @@ weight = 10
 # weight = 15
 
 [[main]]
-name = "categories"
+name = "📇 categories"
 pageRef = "categories"
 weight = 20
 
 [[main]]
-name = "overview"
-parent = "categories"
+name = "🦅 overview"
+parent = "📇 categories"
 pageRef = "categories/overview"
 weight = 20
 
@@ -67,9 +72,10 @@ name = ""
 [[main]]
 # name = "youtube"
 # identifier = "youtube"
-pre = "youtube"
-url = "https://youtube.com/itslikesoup"
-weight = 99
+
+#pre = "youtube"
+#url = "https://youtube.com/itslikesoup"
+#weight = 99
 
 # [[subnavigation]]
 #  name = "youtube"
@@ -83,8 +89,13 @@ weight = 99
 # pageRef = "categories"
 # weight = 20
 
+# [[main]]
+# name = "🏷 tags"
+# pageRef = "tags"
+# weight = 30
+
 [[main]]
-name = "tags"
+name = "🗃 collections"
 pageRef = "tags"
 weight = 30
 
