@@ -12,26 +12,11 @@ serial: "001"
 slug: "origin"
 ver: "v1"
 featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
-references:
-  - name: "info on maat 1"
-  - "https://en.wikipedia.org/wiki/Maat"
-
-  - name: "info on maat 2"
-  - "https://egyptianmuseum.org/deities-Maat#:~:text=Ma%27at%20was%20the%20goddess,she%20was%20depicted%20with%20wings."
-
-  - name: "info on maat 3"
-  - "https://legendaryladieshub.com/maat-egyptian-goddess/"
-
-  - name: "info on set 1"
-  - "https://en.wikipedia.org/wiki/Set_(deity)#"
-
-  - name: "info on set 2"
-  - "https://claude.ai/chat/4810c892-cb7c-45c8-a084-91405df39f74"
 ---
 
 ## the power of order
 
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify">order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can flourish 💐 order shifts the entropic state of a system away from chaos + randomness, granting one the opportunity to reclaim the reigns of their destiny so they may manifest their wishes + desires ✨ in an ordered system, all individual pieces are fully accounted for where the composition, as a whole, can be seen from above, revealing the relations connecting all of its components ~
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify">order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can be curated, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 order shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony where gaining control over causes yields more predictive, expected effects ⚖️ in an ordered system, all individual pieces are fully accounted for where the composition, as a whole, can be seen from above, revealing the relations connecting all of its components ~
 
 ## ma'at, goddess of order
 
@@ -42,7 +27,7 @@ references:
   </div>
 
   <div id="maat2">
-    <p style="padding: 0; margin: 12px 0 0 0; text-align: justify">long ago, in <b><i>ancient egypt</i></b>, no deity was more highly revered by the people + pharaohs than <b><i>ma'at</i></b>, <i>goddess of order</i> ✨ it was her who awaited them all at the end of the 42 gates of heaven where it was her fairness that would grant them access to the after-life ☥ she was the personification of truth + justice, a role model embodying all the principles that mothers would try to instill in their children ~ <b><i>ma’at</i></b> was created when <b><i>ra</i></b>, <i>sun-god</i>, arose from the waters of <b><i>nun</i></b> [chaos] ~ it was <b><i>maat</i></b> that then perpetuted the the harmoney that maintained the perpetual harmony ~ she was the restorer of balance in the fight of chaos [isfret] </p>
+    <p style="padding: 0; margin: 12px 0 0 0; text-align: justify">long ago, in <b><i>ancient egypt</i></b>, no deity was more highly revered by the people + pharaohs than <b><i>ma'at</i></b>, <i>goddess of order</i> ✨ so was said to have been born when ra, sun-god, arose from the waters of  she was the personification of truth + justice, a role model embodying all the principles that mothers would try to instill in their children ~ <b><i>ma’at</i></b> was created when <b><i>ra</i></b>, <i>sun-god</i>, arose from the waters of <b><i>nun</i></b> [chaos] ~ it was <b><i>maat</i></b> that then perpetuted the the harmoney that maintained the perpetual harmony ~ she was the restorer of balance in the fight of chaos [isfret] </p>
   </div>
 
   <div id="maat3">
@@ -59,14 +44,14 @@ references:
 ## the life changing magic of ...
 
 <div id="kondo" style="display: block;">
-    <div id="top2">
+    <div id="kondo1">
         <p style="padding: 0; margin: 6px 0 0 0; text-align: justify;"><b>tidying up</b>, <i>as defined by <b>chatgpt</b> is</i> <br>
         <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, orderly, and free from clutter ~ this process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment ~ tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired ~ it contributes to a sense of order, promotes efficiency, and can have positive effects on mental well-being</mark></p>
     </div>
-  <div id="middle2">
+  <div id="kondo2">
     <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="book cover of marie kondo's book, the life-changing magic of tidying up ~ the japanese art of decluttering and organizing" >
   </div>
-  <div id="bottom2">
+  <div id="kondo3">
     <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if you've never read the book, you may find its title to be overly audacitic in its claim that simply <i>organizing</i> can lead to <i>life-changing magic</i> 🪄 if you have read the book, however, then you've likely repeatedly felt a sense of that magic vicariously w/out ever tidying up a space 🛋 <b><i>kondo's</i></b> mere descriptions of chaotic spaces being put in order gives you this palpitable sense of relief, an ease to breath
     sense of ease, a relief of some burdened feeling that gets released in a calming to breath ~ there is indeed a magic that arises when things are organized + in order
     </p>
@@ -97,4 +82,16 @@ the following is my [review](https://www.producthunt.com/products/anytype/review
  affording one the opportunity to reclaim the reigns of their destiny + manifest that which they wish ✨
 
  of the rising sun god ra [god of order] from the rising from the horizon from nun, the chaotic body of water from which ra rises
+
+ it cultivates a controlled environment in which peace + focus can flourish, allowing one to build + create 💐
+
+ order shifts the entropic state of a system away from chaos + randomness, granting one the opportunity to reclaim the reigns of their destiny so they may manifest their wishes + desires
+
+ it cultivates a controlled environment in which peace + focus can flourish, allowing one to give their attention to building + creating 💐
+
+ grants one the opportunity to reclaim the reigns of their destiny so they may manifest their wishes + desires ✨
+
+ not on distractions but
+
+ it was her who awaited them all at the end of the 42 gates of heaven where it was her fairness that would grant them access to the after-life ☥
  -->

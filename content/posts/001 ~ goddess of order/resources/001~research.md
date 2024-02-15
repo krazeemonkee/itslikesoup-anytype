@@ -1,3 +1,4 @@
+---
 references:
   - name: "info on maat 1"
   - "https://en.wikipedia.org/wiki/Maat"
@@ -13,10 +14,9 @@ references:
 
   - name: "info on set 2"
   - "https://claude.ai/chat/4810c892-cb7c-45c8-a084-91405df39f74"
+---
 
-
-<!-- research
-info maat 1 ~
+# info maat 1 ~
 Maat or Maʽat (Egyptian: mꜣꜥt /ˈmuʀʕat/, Coptic: ⲙⲉⲓ)[1] comprised the ancient Egyptian concepts of truth, balance, order, harmony, law, morality, and justice. Ma'at was also the goddess who personified these concepts, and regulated the stars, seasons, and the actions of mortals and the deities who had brought order from chaos at the moment of creation. Her ideological opposite was Isfet (Egyptian jzft), meaning injustice, chaos, violence or to do evil.
 
 live on Maat
@@ -25,22 +25,22 @@ To the Egyptian mind, Maat bound all things together in an indestructible unity:
 
 When rhetors are attempting to achieve balance in their arguments, they are practicing Maat.
 
-info maat 2 ~
+# info maat 2 ~
 Ma’at was the goddess of truth, justice, balance, and most importantly - order. In paintings, she was depicted as a woman who is either sitting or standing with an ostrich feather on her head and, in some cases, she was depicted with wings. According to the creation myths, Ma’at was created when Ra arose from the waters of Nun (chaos). Ma’at was often considered to be the daughter of Ra and was married to Thoth, god of wisdom.
 
 However, Ma’at was more than just a goddess to the ancient Egyptians. She represented the crucial concept of how the universe was maintained. The ancient Egyptians believed the universe had an order to it, and it was Ma’at who kept everything in balance
 
-info maat 3 ~
+# info maat 3 ~
 To the ancient Egyptians, she was not just a goddess, but a power that ensured balance and peace in all realms – human, divine, and natural.
 
 Apart from law and religion, Maat’s beliefs reached personal behavior too. Egyptians believed that following Maat’s principles would bring blessings and going against them would cause chaos and bad luck. Therefore, people were supposed to act with honesty, integrity, and respect for others.
 
 One exciting part of Maat is her bond to nature. The Egyptians saw how the sun rose and set each day, taking note of its dependable pattern that followed the laws of nature. They related this cycle to Maat’s perpetual presence, strengthening her importance in sustaining global balance.
 
-info set 1 ~
+# info set 1 ~
 Set (/sɛt/; Egyptological: Sutekh - swtẖ ~ stẖ[a] or Greek: Seth /sɛθ/) is a god of deserts, storms, disorder, violence, and foreigners in ancient Egyptian religion.[6]: 269  In Ancient Greek, the god's name is given as Sēth (Σήθ). Set had a positive role where he accompanies Ra on his barque to repel Apep, the serpent of Chaos.
 
-info set 2 ~
+# info set 2 ~
 Set was Ma'at's great antagonist - the agent of chaos, disorder and confusion who threatened the stability and righteousness represented by the goddess of truth and justice. He was her mythological opposite.
 
 
@@ -54,4 +54,3 @@ Ma'at = order/truth/justice
 Set = god of chaos and disorder
 Isfet = condition of chaos Set creates
 The key is that Set directly causes isfet through his actions. Isfet refers to the chaos itself, while Set is the deity personifying disruption and chaos.
--->
