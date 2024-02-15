@@ -16,7 +16,7 @@ featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
 
 ## the power of order
 
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify">order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can be curated, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 order shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony where gaining control over causes yields more predictive, expected effects ⚖️ in an ordered system, all individual pieces are fully accounted for where the composition, as a whole, can be seen from above, revealing the relations connecting all of its components ~
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify">order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can be curated, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 order shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony where gaining control over causes yields more predictive, expected effects ⚖️ in an ordered system, all individual pieces are fully accounted for where the composition, as a whole, can be seen from above, revealing the relations connecting all of its components [insertion]~
 
 ## ma'at, goddess of order
 
