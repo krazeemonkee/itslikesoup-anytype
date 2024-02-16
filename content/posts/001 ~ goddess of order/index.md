@@ -67,18 +67,29 @@ revealing the relations connecting all the components  comprising the whole 🧩
 ## enter anytype
 <img src="anytype coa.webp" alt="old version of anytype logo and wordmark" width="700" style="display: block; margin: auto;">
 
-<b><i>anytype</i></b> isn't just a tool that can help you organize one aspect of your life it's a *machine* that you can pass your entire life through + out the other end it comes out, <i style="color: yellow;">organized ñ in order</i> 🧮 a constant truth revealed by the passing of time is that we, <i>humans</i>,  produce, create, and procreate more ñ more as time goes on 💫
+a truth that's as constant as time is that we, <i>humans</i>,  produce, create + procreate more ñ more w/ the passing of the years 💫 today, there is more <i>everything</i> than there was in 1924 + many more then than there was a century before that 🗿 as we continue to create + accumulate an endless array of all sorts of things in both the physical + digital realms, we begin to drown in a sea of overwhelm, <i>silently + slowly</i>, without ever realizing it 😵‍💫
+
+<div style="display: flex; justify-content: left; align-items: center;">
+    <div id="maat pic">
+        <img src="maat-icon-right.png" alt="old version of anytype logo and wordmark" width="100" style="display: flex; justify-content: center;  margin: auto;">
+    </div>
+    <div id="words">
+        <i style="color: red;">the solution?</i> <br>
+        <b style="color: yellow;">practice <i>maat</i></b> <br>
+        <i style="color: red;">the method?</i> <br>
+        <b style="color: yellow;"><i>anytype</i></b> <br>
+    </div>
+</div>
+
+<b><i style="color: yellow;">anytype</i></b> isn't just a tool that can help you organize one aspect of your life, it's a *machine* that you can pass your entire life through + out the other end it comes out, <i style="color: yellow;">organized ñ in order</i> 🧮
+
+> <b style="color: red;"><i>machine</i></b> : <i>highly organized + structured entity consisting of interconnected components or parts working together in an organized manner to perform specific functions or achieve predefined objectives</i>
+
+
+i <i>whole heartedly</i> believe that the more <i style="color: yellow;">order</i> one cultivates in their life, the more <i style="color: yellow;">peace</i> that can exist, the more <i style="color: yellow;">blessings</i> ñ <i style="color: yellow;">opportunities</i> that can be awarded ✨ even corporations, whether they're <i>for profit</i> or <i>not</i>, they are, after all, called <i style="color: yellow;">organizations</i> + the more organized they are, the more successful they become 🍯
 
 
 
-
-one truth that remains constant w/ the passing of time is the year is now 2024 where stuff is more plentiful .. as we continue to produce and create and procreate
-
-it to help you organize your life, it's a machine
-midas touch
-whether it's for profit or not, they are called organizations after all and the more organized, the more successful
-
-as you go about your days, i wish you maat.. savior
 
 
 the following is my [review](https://www.producthunt.com/products/anytype/reviews) left on producthunt the day of their public launch
@@ -126,4 +137,35 @@ the following is my [review](https://www.producthunt.com/products/anytype/review
 <span style="color: hotpink;">e</span><span style="color: deeppink;">e</span>
 
 while the amount of materials has always been the same, the stuff we turn that material into has..
+
+anything you bring order to
+one truth that remains constant w/ the passing of time is the year is now 2024 where stuff is more plentiful .. as we continue to produce and create and procreate
+
+midas touch
+
+a complex system or organization that operates in a structured or organized manner to achieve specific goals.
+
+{{< lead >}}
+<b style="color: red;"><i>machine</i></b> : <i>highly organized + structured entity consisting of interconnected components or parts working together in an organized manner to perform specific functions or achieve predefined objectives.</i>
+{{< /lead >}}
+
+revealed by the passing of time
+
+that stretches across the physical realm/plane/dimension and  to the digital one,
+
+a machine consists of three stages:
+1. <span style="color: lightgreen;">input</span>
+2. <span style="color: yellow;">process</span>
+3. <span style="color: red;">output</span>
+
+peace-filled a life can be
+
+it to help you organize your life, it's a machine
+
+
+as you go about your days, i wish you maat.. savior
+
+reaped
+
+
 -->
