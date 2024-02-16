@@ -9,6 +9,7 @@ programs: ["anytype"]
 serial: ""
 slug: ""
 ver: "v1"
+changes: ""
 featuredImage: ""
 ---
 

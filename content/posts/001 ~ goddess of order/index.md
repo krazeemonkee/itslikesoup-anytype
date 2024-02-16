@@ -6,29 +6,29 @@ date: 2024-02-11T04:42:16-08:00
 draft: false
 description: ""
 categories: ["🦅 overview"]
-tags: [""]
+tags: ["🗿 origin"]
 programs: [""]
 serial: "001"
 slug: "origin"
 ver: "v1"
+changes: ""
 featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
 ---
 
 ## the power of order
 
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <span style="color: yellow;">order</span> is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can be curated, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 <span style="color: yellow;">order</span> shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony ⚖️ by gaining a greater grasp on the causes/input of the system, one is afforded more predictive, expected effects/outcomes 🏭 in an <span style="color: yellow;">ordered</span> system, all individual pieces are fully accounted for where the composition can be viewed from above,
-revealing the relations connecting all the components  comprising the whole 🧩
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <span style="color: yellow;">order</span> is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can flourish, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 <span style="color: yellow;">order</span> shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony ⚖️ by gaining a greater grasp on the causes/input of a system, one is afforded more predictable, expected effects/outputs 🏭 in an <span style="color: yellow;">ordered</span> system, all individual pieces are fully accounted for where when viewed from above, the composition reveals the relations of all interconnected components comprising the whole 🧩
 
 ## ma'at, goddess of order
 
 <div id="maat" style="display: block;">
 
   <div id="maat1">
-    <img src="maat-wings-icon-left.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
+    <img src="img/maat-wings-icon-left.png" alt="Additional Image 2" width="300" style="display: block; margin: auto;">
   </div>
 
   <div id="maat2">
-    <p style="padding: 0; margin: 12px 0 0 0; text-align: justify">long ago, in <b><i>ancient egypt</i></b>, no deity was more highly revered by the people + pharaohs than <b><i style="color: yellow;">ma'at</i></b>, <i style="color: yellow;">goddess of order</i> ✨ she was said to have been created when <b><i>ra</i></b>, <i>sun-god</i>, arose from the waters of <b><i style="color:red;">nun</i></b> [<i style="color: red;">chaos</i>, a force they refered to as <i style="color: red;">isfet</i>] 🌪 it was thereafter that <b><i style="color: yellow;">ma'at</i></b> continued to perpetuate the very balance of the universe by sustaining the harmony of its revolving planets that revealed the sun in the morning and the moon at night 🌛 since <b><i style="color: yellow;">maat</i></b> was the very embodiment of this incredible power, when believers would pray to her, they would more specifically pray that she bestows them with <span style="color: yellow;">order</span>, as that was the power to balance/battle the <i style="color: red;">chaos/isfet</i> embodied by their primary devil-figure, <b><i style="color: red;">set</i></b>, <i style="color: red;">god of chaos</i> 👹 this relationship of <i><span style="color: yellow;">order</span> vs <span style="color: red;">chaos</span></i> was so synonymous w/ <i><span style="color: yellow;">good</span> vs <span style="color: red;">evil</span></i> that <b><i style="color: yellow;">maat</i></b> was often used as a verb, where people would <i style="color: yellow;">live life in <b>maat/order</b></i> 🌟</p>
+    <p style="padding: 0; margin: 12px 0 0 0; text-align: justify">long ago, in <b><i>ancient egypt</i></b>, no deity was more highly revered by the people + pharaohs than <b><i style="color: yellow;">ma'at</i></b>, <i style="color: yellow;">goddess of order</i> ✨ she was said to have been created when <b><i>ra</i></b>, <i>sun-god</i>, arose from the waters of <b><i style="color:red;">nun</i></b> [<i style="color: red;">chaos</i>, a force they refered to as <i style="color: red;">isfet</i>] 🌪 it was thereafter that <b><i style="color: yellow;">ma'at</i></b> continued to perpetuate the very balance of the universe by sustaining the harmony of its revolving planets that revealed the sun in the morning and the moon at night 🌛 since <b><i style="color: yellow;">maat</i></b> was the very embodiment of this <i>incredible power</i>, when believers would pray to her, they would more specifically pray that she bestows them with <span style="color: yellow;">order</span>, as that was the power to balance/battle the <i style="color: red;">chaos/isfet</i> embodied by their primary devil-figure, <b><i style="color: red;">set</i></b>, <i style="color: red;">god of chaos</i> 👹 this relationship of <i><span style="color: yellow;">order</span> vs <span style="color: red;">chaos</span></i> was so synonymous w/ <i><span style="color: yellow;">good</span> vs <span style="color: red;">evil</span></i> that <b><i style="color: yellow;">maat</i></b> was often used as a verb, where people would <i style="color: yellow;">live life in <b>maat/order</b></i> 🌟</p>
   </div>
 
   <div id="maat3">
@@ -50,10 +50,10 @@ revealing the relations connecting all the components  comprising the whole 🧩
         <mark style="background-color: red; color: black; padding: 0px; border-radius: 0px;">the act of organizing + cleaning a space to make it neat, <span style="color: yellow;">orderly</span>, and free from clutter ~ this process typically involves arranging items in their designated places, getting rid of unnecessary items, and generally creating a more visually appealing and functional environment ~ tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired ~ it contributes to a sense of <span style="color: yellow;">order</span>, promotes efficiency, and can have positive effects on mental well-being</mark></p>
     </div>
   <div id="kondo2">
-    <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="book cover of marie kondo's book, the life-changing magic of tidying up ~ the japanese art of decluttering and organizing" >
+    <img src="img/the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="book cover of marie kondo's book, the life-changing magic of tidying up ~ the japanese art of decluttering and organizing" >
   </div>
   <div id="kondo3">
-    <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if you've never read/heard the book, you may find its title to be overly audacitic in its claim that simply <i style="color: yellow;">organizing</i> can lead to <i style="color: yellow;">life-changing magic</i> 🪄 if you have consumed the book, however, then you've likely repeatedly felt a sense of this <i>magic tingle</i> that ripples through your body as you vicariously experience those effects w/out ever having tidied up 🛋 <i><b>kondo</b>-sans</i> mere descriptions of chaotic spaces being put in <span style="color: yellow;">order</span> gives you this palpable sense of relief where heavy burdened air gets released as you breathe 🌬 there indeed is a magic that arises when things in life are <span style="color: yellow;">organized + in order</span>, and this, ultimately, is the true power behind <span style="color: chartreuse;">a</span><span style="color: yellow;">n</span><span style="color: orange;">y</span><span style="color: red;">t</span><span style="color: violet;">y</span><span style="color: blue;">p</span><span style="color: aqua;">e</span><i style="color: yellow;">, the ultimate organizing machine</i> ~
+    <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if you've never read/heard the book, you may find its title to be overly audacitic in its claim that simply <i style="color: yellow;">organizing</i> can lead to <i style="color: yellow;">life-changing magic</i> 🪄 if you have consumed the book, however, then you've likely repeatedly felt a sense of this <i>magic</i> as you vicariously experience the effects of order w/out ever having tidied up 🛋 <i><b>kondo</b>-sans</i> mere descriptions of chaotic spaces being put in <span style="color: yellow;">order</span> gives you this palpable sense of relief where heavy, burdened air gets released through your breathe 🌬 there indeed is a magic that arises when things in life are <span style="color: yellow;">organized/ordered</span>, and this, ultimately, is the true power behind <span style="color: chartreuse;">a</span><span style="color: yellow;">n</span><span style="color: orange;">y</span><span style="color: red;">t</span><span style="color: violet;">y</span><span style="color: azure;">p</span><span style="color: aqua;">e</span><i style="color: yellow;">, the ultimate organizing machine</i> ~
     </p>
   </div>
 </div>
@@ -65,13 +65,13 @@ revealing the relations connecting all the components  comprising the whole 🧩
 
 
 ## enter anytype
-<img src="anytype coa.webp" alt="old version of anytype logo and wordmark" width="700" style="display: block; margin: auto;">
+<img src="img/anytype coa.webp" alt="old version of anytype logo and wordmark" width="700" style="display: block; margin: auto;">
 
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify;">a truth that's as constant as time is that we, <i>humans</i>,  produce, create + procreate more ñ more w/ the passing of the years 💫 today, there is more <i>everything</i> than there was in 1924 + many more then than there was a century before that 🗿 as we continue to create + accumulate an endless array of all sorts of things in both the physical + digital realms, we begin to drown in a sea of overwhelm, <i>silently + slowly</i>, without ever realizing it 😵‍💫</p>
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify;">a truth that's as constant as time is that we, <i>humans</i>,  produce, create + procreate more ñ more w/ each passing year 💫 today, there is more <i>everything</i> than there was in 1924 + many more then than there was a century before that 🗿 as we continue to create + accumulate an endless array of all sorts of things, in both the physical + digital realms, we begin to drown in a sea of overwhelm, <i>silently + slowly</i>, without ever realizing it 😵‍💫</p>
 
 <div style="display: flex; justify-content: left; align-items: center;">
     <div id="maat pic">
-        <img src="maat-icon-right.png" alt="old version of anytype logo and wordmark" width="100" style="display: flex; justify-content: center;  margin: auto;">
+        <img src="img/maat-icon-right.png" alt="old version of anytype logo and wordmark" width="100" style="display: flex; justify-content: center;  margin: auto;">
     </div>
     <div id="words">
         <i style="color: red;">the solution?</i> <br>
@@ -81,111 +81,30 @@ revealing the relations connecting all the components  comprising the whole 🧩
     </div>
 </div>
 
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify;"><b><i style="color: yellow;">anytype</i></b> isn't just a tool that can help you organize one aspect of your life, it's a *machine* that you can pass your entire life through + out the other end it comes out, <i style="color: yellow;">organized ñ in order</i> 🧮</p>
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify;"><b><i style="color: yellow;">anytype</i></b> isn't just a tool that can help you organize one aspect of your life, it's a <i>machine</i> that you can pass your entire life through + out the other end it comes out, <i style="color: yellow;">organized + in order</i> 🧮</p>
 
 > <p style="padding: 0; margin: 0 0 0 0; text-align: justify;"><b style="color: red;"><i>machine</i></b> : <i>highly organized + structured entity consisting of interconnected components or parts working together in an organized manner to perform specific functions or achieve predefined objectives</i></p>
 
 
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify;">i <i>whole heartedly</i> believe that the more <i style="color: yellow;">order</i> one cultivates in their life, the more <i style="color: yellow;">peace</i> that can exist, the more <i style="color: yellow;">blessings</i> ñ <i style="color: yellow;">opportunities</i> that can arise ✨ even corporations, whether they're <i>for profit</i> or <i>not</i>, they are, after all, called <i style="color: yellow;">organizations</i> + the more organized they are, the more successful they become 🍯</p><br>
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify;">i truly believe that the more <i style="color: yellow;">order</i> one curates in their life, the more <i style="color: yellow;">peace ñ focus</i> that can exist, the more <i style="color: yellow;">blessings ñ opportunities</i> that can arise ✨ even corporations, whether they're <i>for profit</i> or <i>not</i>, they are, after all, called <i style="color: yellow;">organizations</i> + the more organized they are, the more successful they become 🍯</p><br>
 
 
 <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if order, <i>as i believe</i>, is the source of so much <b><i>goodness</i></b> + <b><i>anytype</i></b> is the machine in which one can <i>input</i> <i style="color: red;">chaos</i> [<i>in any form</i>] + <i>out</i>  comes <i style="color: yellow;">order</i>, then i'd like to help others improve their lives by harnessing this program's immense <i style="color: yellow;">organizing</i> <i style="color: red;">power</i> ⚡️</p>
 <br>
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify;">i've recently realized just how deep my passion for organizing goes + how for the past handful of years, i've spent every single day defining + refining some sort of system to improve order + w/ it, my life 🌟 since adopting <b><i style="color: yellow;">anytype</i></b> 9 months ago, i instantly recognized that it is precisely the tool i've been searching for + have since cyphoned just about every aspect of my life through 🧬 all my projects, all my tasks, all my thoughts 🌬 they all get captured + processed through <b><i style="color: yellow;">anytype</i></b> 💠 i'd like to share some of the little bits ñ peaces i've learned + observed along the way so that it may, again, potentially help one other person invite more order into their lives 💛 so, for the next year, until <i>2025/11/02</i>, i will be uploading at least one post per day relating to <b><i style="color: yellow;">anytype</i></b> 🦎
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify;">i've recently realized just how deep my passion for organizing goes + how for the past handful of years, i've spent every single day defining + refining some sort of system to improve order + w/ it, my life 🌟 since adopting <b><i style="color: yellow;">anytype</i></b> into my system 9 months ago, i instantly recognized it as precisely the tool i've been searching for + have since used it every single day to cyphon just about every aspect of my life through it 🧬 all my projects, all my tasks, all my thoughts 🌬 they all get captured + processed through <b><i style="color: yellow;">anytype</i></b> 💠 i'd like to share some of the bits ñ pieces i've learned + observed along the way so that it may, again, potentially help one other person invite more order into their lives 💛 so, for the next year, until <i>2025/11/02</i>, i will be uploading at least one post per day relating to <b><i style="color: yellow;">anytype</i></b> 🦎
 
-
-
-
-{{< lead >}}
-*below is my [review](https://www.producthunt.com/products/anytype/reviews) left on producthunt the day of their public launch*
-{{< /lead >}}
-
-{{< alert icon="heart" iconColor="red" cardColor="#fff8d6" textColor="#000000" >}}
-<p style="text-align: justify; padding-right: 22px">
-"the legos of all personal knowledge management systems 🧠 it unifies the utility of <b><i textColor="#000000">notion<i/></b> w/ the heroic principles of <b><i textColor="#000000">obsidian<i/></b> to provide an ultra granular/customizable interface that allows you organize/systemize just about any type of data you can throw at it 🗂 while <b><i textColor="#000000">notion<i/></b> <i>excels</i> at creating/managing databases + <b><i textColor="#000000">obsidian<i/></b> shines at seamlessly composing + linking documentations, <b><i textColor="#000000">anytype<i/></b> is the perfect union of the two w/ its space~wide parameter system 🧱 every unit of information is an object, every object has a type, and relations define + link objects 🏗 the power of modularity this basic system provides is what truly makes anytype the legos of all pkm's/second~brain apps 👑 at the core of its superpowers are its superhero principles ~ local first, peer2peer, encrypted, open~sourced, and free [limitless functionality] 💎 anytype has become the focal point of my entire [productivity] system + it is impossible to overstate how much i admire/adore the product the fine folks behind <b><i textColor="#000000">anytype<i/></b> have created 🙏🏽 thank you, <b><i textColor="#000000">anytype team<i/></b> ✨"
-</p>
-{{< /alert >}}
+<div style="display: flex; justify-content: center;">
+<div style="position: relative; width: 50%;">
+  <img src="img/swirling-gold-vortex.gif" alt="Image Description" style="width: 100%; border-radius: 50%;">
+  <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 16px; font-weight: bold; text-align: center; margin: 0; padding: 0">
+    whether you follow along or not, may <b style="color: yellow;">maat/order/peace</b> be forever present ✨ in your life ✨
+  </p>
+</div>
+</div>
 
 
 <!--
- in order to foster a morally-rich civilization that can earn their right to live eternally 💫
 
- - [wiki](https://en.wikipedia.org/wiki/Maat)
-
- affording one the opportunity to reclaim the reigns of their destiny + manifest that which they wish ✨
-
- of the rising sun god ra [god of order] from the rising from the horizon from nun, the chaotic body of water from which ra rises
-
- it cultivates a controlled environment in which peace + focus can flourish, allowing one to build + create 💐
-
- order shifts the entropic state of a system away from chaos + randomness, granting one the opportunity to reclaim the reigns of their destiny so they may manifest their wishes + desires
-
- it cultivates a controlled environment in which peace + focus can flourish, allowing one to give their attention to building + creating 💐
-
- grants one the opportunity to reclaim the reigns of their destiny so they may manifest their wishes + desires ✨
-
- not on distractions but
-
- it was her who awaited them all at the end of the 42 gates of heaven where it was her fairness that would grant them access to the after-life ☥
-
- it was <b><i>maat</i></b> that then perpetuted the the harmoney that maintained the perpetual harmony ~ she was the restorer of balance in the fight of chaos [isfret]
-
-## <span style="color: red;">the power of</span> <span style="color: yellow;">order</span>
-
-**she was the personification of truth + justice, a role model embodying all the principles that mothers would so dearly try instill into their children to foster the rich civilization that was
-
-<span style="color: red;">not</span>
-
-🏭 in an <span style="color: yellow;">ordered</span> system, all individual pieces are fully accounted for where the composition, as a whole, can be viewed from above, revealing the relations connecting all of its components 🧩
-
-🪄 if you have consumed the book, however, then you've likely repeatedly felt a sense of this <i>magic tingle</i> that ripples through your body as you vicariously experience those effects w/out ever // having tidied up tidying up a space 🛋
-
-<span style="color: hotpink;">e</span><span style="color: deeppink;">e</span>
-
-while the amount of materials has always been the same, the stuff we turn that material into has..
-
-anything you bring order to
-one truth that remains constant w/ the passing of time is the year is now 2024 where stuff is more plentiful .. as we continue to produce and create and procreate
-
-midas touch
-
-a complex system or organization that operates in a structured or organized manner to achieve specific goals.
-
-{{< lead >}}
-<b style="color: red;"><i>machine</i></b> : <i>highly organized + structured entity consisting of interconnected components or parts working together in an organized manner to perform specific functions or achieve predefined objectives.</i>
-{{< /lead >}}
-
-revealed by the passing of time
-
-that stretches across the physical realm/plane/dimension and  to the digital one,
-
-a machine consists of three stages:
-1. <span style="color: lightgreen;">input</span>
-2. <span style="color: yellow;">process</span>
-3. <span style="color: red;">output</span>
-
-peace-filled a life can be
-
-it to help you organize your life, it's a machine
-
-
-as you go about your days, i wish you maat.. savior
-
-reaped
-
-<i style="color: lightpink;">i whole heartedly believe</i> that the more <i style="color: yellow;">order</i> one cultivates in their life, the more <i style="color: yellow;">peace</i> that can exist, the more <i style="color: yellow;">blessings</i> ñ <i style="color: yellow;">opportunities</i> that can be awarded
-
-i'm 3 months shy of my 1  year aniversary w/ anytype 05-14-23 [05-25-23, i'm in]
-
-given this belief in the power of order + how radically it can better one's life,
-
-that it's capable of transforming lives for the better ~
-
-if order, <i>as i believe</i>, is the source of so much <i style="color: yellow;">goodness</i> + <i style="color: yellow;">anytype</i> is the machine where one can input <i style="color: red;">chaos</i>, <i>in any form</i> + out comes <i style="color: yellow;">order</i>,then i'd like to help others harness its immense <i style="color: yellow;">organizing</i> <i style="color: red;">power</i> ~ utilize this tool to organize any/all aspects of their lives so that they may better harness the rich blessings of peace through order
-
-utilize this tool to organize any/all aspects of their lives so that they may better harness the rich blessings of peace through order ✨
-
- ~ i've been using it every single day for what seems like no less than 3 hours  ⏳ everyday, for about 4 hours ⌛️</p>
 
 
 -->
