@@ -16,7 +16,8 @@ featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
 
 ## the power of order
 
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <span style="color: yellow;">order</span> is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can be curated, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 <span style="color: yellow;">order</span> shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony where gaining control over causes yields more predictive, expected effects ⚖️ in an <span style="color: yellow;">ordered</span> system, all individual pieces are fully accounted for where the composition, as a whole, can be seen from above, revealing the relations connecting all of its components 🧩
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <span style="color: yellow;">order</span> is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can be curated, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 <span style="color: yellow;">order</span> shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony ⚖️ by gaining a greater grasp on the causes/input of the system, one is afforded more predictive, expected effects/outcomes 🏭 in an <span style="color: yellow;">ordered</span> system, all individual pieces are fully accounted for where the composition can be viewed from above,
+revealing the relations connecting all the components  comprising the whole 🧩
 
 ## ma'at, goddess of order
 
@@ -27,7 +28,7 @@ featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
   </div>
 
   <div id="maat2">
-    <p style="padding: 0; margin: 12px 0 0 0; text-align: justify">long ago, in <b><i>ancient egypt</i></b>, no deity was more highly revered by the people + pharaohs than <b><i style="color: yellow;">ma'at</i></b>, <i style="color: yellow;">goddess of order</i> ✨ she was said to have been created when <b><i>ra</i></b>, <i>sun-god</i>, arose from the waters of <b><i style="color:red;">nun</i></b> [<i style="color: red;">chaos</i>, a force they refered to as <i style="color: red;">isfet</i>] 🌪 it was thereafter that <b><i style="color: yellow;">ma'at</i></b> continued to perpetuate the very balance of the universe by sustaining the harmony of its revolving planets that revealed the sun in the morning and the moon at night 🌛 since <b><i style="color: yellow;">maat</i></b> was the very embodiment of this incredible power, when believers would pray to her, they would more specifically pray that she bestows them with order as that was the power to balance/battle the <i style="color: red;">chaos/isfet</i> embodied by their primary devil-figure, <b><i style="color: red;">set</i></b>, <i style="color: red;">god of chaos</i> 👹 this relationship of <i><span style="color: yellow;">order</span> vs <span style="color: red;">chaos</span></i> was so synonymous w/ <i><span style="color: yellow;">good</span> vs <span style="color: red;">evil</span></i> that <b><i style="color: yellow;">maat</i></b> was often used as a verb, where people would <i style="color: yellow;">live life in <b>maat/order</b></i> 🌟</p>
+    <p style="padding: 0; margin: 12px 0 0 0; text-align: justify">long ago, in <b><i>ancient egypt</i></b>, no deity was more highly revered by the people + pharaohs than <b><i style="color: yellow;">ma'at</i></b>, <i style="color: yellow;">goddess of order</i> ✨ she was said to have been created when <b><i>ra</i></b>, <i>sun-god</i>, arose from the waters of <b><i style="color:red;">nun</i></b> [<i style="color: red;">chaos</i>, a force they refered to as <i style="color: red;">isfet</i>] 🌪 it was thereafter that <b><i style="color: yellow;">ma'at</i></b> continued to perpetuate the very balance of the universe by sustaining the harmony of its revolving planets that revealed the sun in the morning and the moon at night 🌛 since <b><i style="color: yellow;">maat</i></b> was the very embodiment of this incredible power, when believers would pray to her, they would more specifically pray that she bestows them with <span style="color: yellow;">order</span>, as that was the power to balance/battle the <i style="color: red;">chaos/isfet</i> embodied by their primary devil-figure, <b><i style="color: red;">set</i></b>, <i style="color: red;">god of chaos</i> 👹 this relationship of <i><span style="color: yellow;">order</span> vs <span style="color: red;">chaos</span></i> was so synonymous w/ <i><span style="color: yellow;">good</span> vs <span style="color: red;">evil</span></i> that <b><i style="color: yellow;">maat</i></b> was often used as a verb, where people would <i style="color: yellow;">live life in <b>maat/order</b></i> 🌟</p>
   </div>
 
   <div id="maat3">
@@ -52,18 +53,23 @@ featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
     <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="book cover of marie kondo's book, the life-changing magic of tidying up ~ the japanese art of decluttering and organizing" >
   </div>
   <div id="kondo3">
-    <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if you've never read the book, you may find its title to be overly audacitic in its claim that simply <i>organizing</i> can lead to <i>life-changing magic</i> 🪄 if you have read the book, however, then you've likely repeatedly felt a sense of that magic vicariously w/out ever tidying up a space 🛋 <b><i>kondo's</i></b> mere descriptions of chaotic spaces being put in <span style="color: yellow;">order</span> gives you this tingly, palpitable sense of relief, an ease to breath
-    sense of ease, a relief of some burdened feeling that gets released in a calming to breath ~ there is indeed a magic that arises when things are organized + in order
+    <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if you've never read/heard the book, you may find its title to be overly audacitic in its claim that simply <i style="color: yellow;">organizing</i> can lead to <i style="color: yellow;">life-changing magic</i> 🪄 if you have consumed the book, however, then you've likely repeatedly felt a sense of this <i>magic tingle</i> that ripples through your body as you vicariously experience those effects w/out ever having tidied up 🛋 <i><b>kondo</b>-sans</i> mere descriptions of chaotic spaces being put in <span style="color: yellow;">order</span> gives you this palpable sense of ease that manifests through a deep, full breath where it feels as though a burden has been lifted 🌬 there indeed is a magic that arises when things in life are <span style="color: yellow;">organized + in order</span>, and this, ultimately, is the true power behind <span style="color: chartreuse;">a</span><span style="color: yellow;">n</span><span style="color: orange;">y</span><span style="color: red;">t</span><span style="color: violet;">y</span><span style="color: blue;">p</span><span style="color: aqua;">e</span><i style="color: yellow;">, the ultimate organizing tool</i> ~
     </p>
   </div>
 </div>
 
+{{< lead >}}
+*"tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired"*
+{{< /lead >}}
+
 
 
 ## enter anytype
-<img src="anytype coa.webp" alt="Additional Image 2" width="700" style="display: block; margin: auto;">
+<img src="anytype coa.webp" alt="old version of anytype logo and wordmark" width="700" style="display: block; margin: auto;">
 
 whether it's for profit or not, they are called organizations after all and the more organized, the more successful
+
+tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired
 
 
 the following is my [review](https://www.producthunt.com/products/anytype/reviews) left on producthunt the day of their public launch
@@ -101,4 +107,12 @@ the following is my [review](https://www.producthunt.com/products/anytype/review
 ## <span style="color: red;">the power of</span> <span style="color: yellow;">order</span>
 
 **she was the personification of truth + justice, a role model embodying all the principles that mothers would so dearly try instill into their children to foster the rich civilization that was
- -->
+
+<span style="color: red;">not</span>
+
+🏭 in an <span style="color: yellow;">ordered</span> system, all individual pieces are fully accounted for where the composition, as a whole, can be viewed from above, revealing the relations connecting all of its components 🧩
+
+🪄 if you have consumed the book, however, then you've likely repeatedly felt a sense of this <i>magic tingle</i> that ripples through your body as you vicariously experience those effects w/out ever // having tidied up tidying up a space 🛋
+
+<span style="color: hotpink;">e</span><span style="color: deeppink;">e</span>
+-->
