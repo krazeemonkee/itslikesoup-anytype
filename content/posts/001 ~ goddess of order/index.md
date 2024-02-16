@@ -53,13 +53,13 @@ revealing the relations connecting all the components  comprising the whole 🧩
     <img src="the life-changing magic of tidying up ~ the japanese art of decluttering and organizing.jpg" alt="book cover of marie kondo's book, the life-changing magic of tidying up ~ the japanese art of decluttering and organizing" >
   </div>
   <div id="kondo3">
-    <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if you've never read/heard the book, you may find its title to be overly audacitic in its claim that simply <i style="color: yellow;">organizing</i> can lead to <i style="color: yellow;">life-changing magic</i> 🪄 if you have consumed the book, however, then you've likely repeatedly felt a sense of this <i>magic tingle</i> that ripples through your body as you vicariously experience those effects w/out ever having tidied up 🛋 <i><b>kondo</b>-sans</i> mere descriptions of chaotic spaces being put in <span style="color: yellow;">order</span> gives you this palpable sense of ease that manifests through a deep, full breath where it feels as though a burden has been lifted 🌬 there indeed is a magic that arises when things in life are <span style="color: yellow;">organized + in order</span>, and this, ultimately, is the true power behind <span style="color: chartreuse;">a</span><span style="color: yellow;">n</span><span style="color: orange;">y</span><span style="color: red;">t</span><span style="color: violet;">y</span><span style="color: blue;">p</span><span style="color: aqua;">e</span><i style="color: yellow;">, the ultimate organizing tool</i> ~
+    <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if you've never read/heard the book, you may find its title to be overly audacitic in its claim that simply <i style="color: yellow;">organizing</i> can lead to <i style="color: yellow;">life-changing magic</i> 🪄 if you have consumed the book, however, then you've likely repeatedly felt a sense of this <i>magic tingle</i> that ripples through your body as you vicariously experience those effects w/out ever having tidied up 🛋 <i><b>kondo</b>-sans</i> mere descriptions of chaotic spaces being put in <span style="color: yellow;">order</span> gives you this palpable sense of relief where heavy burdened air gets released as you breathe 🌬 there indeed is a magic that arises when things in life are <span style="color: yellow;">organized + in order</span>, and this, ultimately, is the true power behind <span style="color: chartreuse;">a</span><span style="color: yellow;">n</span><span style="color: orange;">y</span><span style="color: red;">t</span><span style="color: violet;">y</span><span style="color: blue;">p</span><span style="color: aqua;">e</span><i style="color: yellow;">, the ultimate organizing machine</i> ~
     </p>
   </div>
 </div>
 
 {{< lead >}}
-*"tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired"*
+*"tidying up can be applied to various settings, such as homes, offices, or <span style="color: lightpink;">any other spaces</span> where <span style="color: yellow;">organization</span> and cleanliness are desired"*
 {{< /lead >}}
 
 
@@ -67,9 +67,18 @@ revealing the relations connecting all the components  comprising the whole 🧩
 ## enter anytype
 <img src="anytype coa.webp" alt="old version of anytype logo and wordmark" width="700" style="display: block; margin: auto;">
 
+<b><i>anytype</i></b> isn't just a tool that can help you organize one aspect of your life it's a *machine* that you can pass your entire life through + out the other end it comes out, <i style="color: yellow;">organized ñ in order</i> 🧮 a constant truth revealed by the passing of time is that we, <i>humans</i>,  produce, create, and procreate more ñ more as time goes on 💫
+
+
+
+
+one truth that remains constant w/ the passing of time is the year is now 2024 where stuff is more plentiful .. as we continue to produce and create and procreate
+
+it to help you organize your life, it's a machine
+midas touch
 whether it's for profit or not, they are called organizations after all and the more organized, the more successful
 
-tidying up can be applied to various settings, such as homes, offices, or any other spaces where organization and cleanliness are desired
+as you go about your days, i wish you maat.. savior
 
 
 the following is my [review](https://www.producthunt.com/products/anytype/reviews) left on producthunt the day of their public launch
@@ -115,4 +124,6 @@ the following is my [review](https://www.producthunt.com/products/anytype/review
 🪄 if you have consumed the book, however, then you've likely repeatedly felt a sense of this <i>magic tingle</i> that ripples through your body as you vicariously experience those effects w/out ever // having tidied up tidying up a space 🛋
 
 <span style="color: hotpink;">e</span><span style="color: deeppink;">e</span>
+
+while the amount of materials has always been the same, the stuff we turn that material into has..
 -->
