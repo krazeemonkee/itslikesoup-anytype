@@ -8,9 +8,8 @@ tags: [""]
 programs: ["anytype"]
 serial: ""
 slug: ""
-references:
-  - name: ""
-  - "https://"
+ver: "v1"
+featuredImage: ""
 ---
 
 
