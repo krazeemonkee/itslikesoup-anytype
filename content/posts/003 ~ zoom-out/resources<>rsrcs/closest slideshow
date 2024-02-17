@@ -1,0 +1,97 @@
+<style>
+.slideshow-container {
+  width: 200px;
+  position: relative;
+}
+
+.slideshow {
+  display: flex;
+  flex-wrap: nowrap;
+  overflow: hidden;
+  width: 100%;
+  animation: slide 20s infinite;
+  transition: margin-left 0.5s ease-out;
+}
+
+.slideshow img {
+  width: 100%;
+  flex-shrink: 0;
+}
+
+.controls {
+  position: absolute;
+  top: 50%;
+  width: 100%;
+}
+
+.controls button {
+  font-size: 1.5em;
+  border: none;
+  background: none;
+  color: #444;
+  cursor: pointer;
+}
+
+.prev {
+  position: absolute;
+  left: 0;
+}
+.next {
+  position: absolute;
+  right: 0;
+}
+</style>
+
+<div class="slideshow-container">
+
+  <div class="slideshow">
+    <img src="img/ie/iphone/zoom1.png">
+    <img src="img/ie/iphone/zoom2.png">
+    <img src="img/ie/iphone/zoom3.png">
+    <img src="img/ie/iphone/zoom4.png">
+  </div>
+
+  <div class="controls">
+    <button class="prev">←</button>
+    <button class="next">→</button>
+  </div>
+
+</div>
+
+<script>
+const slides = document.querySelector('.slideshow');
+const prevButton = document.querySelector('.prev');
+const nextButton = document.querySelector('.next');
+
+let index = 0;
+
+const updateSlidePosition = () => {
+  slides.style.marginLeft = `-${index * 100}%`;
+}
+
+prevButton.addEventListener('click', () => {
+  index = (index > 0) ? index - 1 : 0;
+  updateSlidePosition();
+})
+
+nextButton.addEventListener('click', () => {
+  index = (index < 2) ? index + 1 : 2;
+  updateSlidePosition();
+})
+</script>
+
+
+<div style="display: flex;">
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/iphone/zoom1.png" alt="Label 1" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/iphone/zoom2.png" alt="Label 2" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/iphone/zoom3.png" alt="Label 3" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/iphone/zoom4.png" alt="Label 3" style="width: 100%;">
+    </div>
+</div>
