@@ -2,12 +2,16 @@
 # title: "goddess of order"
 title: "order vs chaos"
 # title: "order vs chaos"
+# title: "welcome, order"
 date: 2024-02-11T04:42:16-08:00
 draft: false
 description: ""
 categories: ["📰 essay"]
 tags: ["🗿 origin"]
 programs: [""]
+scopes: [""]
+guides: [""]
+functions: [""]
 serial: "001"
 slug: "order"
 ver: "v1"
@@ -92,7 +96,7 @@ featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
 
 <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">if order, <i>as i believe</i>, is the source of so much <b><i>goodness</i></b> + <b><i>anytype</i></b> is the machine in which one can <i>input</i> <i style="color: red;">chaos</i> [<i>in any form</i>] + <i>out</i>  comes <i style="color: yellow;">order</i>, then i'd like to help others improve their lives by harnessing this program's immense <i style="color: yellow;">organizing</i> <i style="color: red;">power</i> ⚡️</p>
 <br>
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify;">i've recently realized just how deep my passion for organizing goes + how for the past handful of years, i've spent every single day defining + refining some sort of system to improve order + w/ it, my life 🌟 since adopting <b><i style="color: yellow;">anytype</i></b> into my system 9 months ago, i instantly recognized it as precisely the tool i've been searching for + have since used it every single day to cyphon just about every aspect of my life through it 🧬 all my projects, all my tasks, all my thoughts 🌬 they all get captured + processed through <b><i style="color: yellow;">anytype</i></b> 💠 i'd like to share some of the bits ñ pieces i've learned + observed along the way so that it may, again, potentially help one other person invite more order into their lives 💛 so, for the next year, until <i>2025/11/02</i>, i will be uploading at least one post per day relating to <b><i style="color: yellow;">anytype</i></b> 🦎
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify;">i've recently realized just how deep my passion for organizing goes + how for the past handful of years, i've spent every single day defining + refining some sort of system to improve order + w/ it, my life 🌟 since adopting <b><i style="color: yellow;">anytype</i></b> into my system 9 months ago, i instantly recognized it as precisely the tool i've been searching for + have since used it every single day to cyphon just about every aspect of my life through it 🧬 all my projects, all my tasks, all my thoughts 🌬 they all get captured + processed through <b><i style="color: yellow;">anytype</i></b> 💠 i'd like to share some of the bits ñ pieces i've learned + observed along the way so that it may, again, potentially help one other person invite more order into their lives 💛
 
 <div style="display: flex; justify-content: center;">
 <div style="position: relative; width: 50%;">
@@ -104,8 +108,8 @@ featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
 </div>
 
 
-<!--
+<!-- scraps
 
-
+so, for the next year, until <i>2025/11/02</i>, i will be uploading at least one post per day relating to <b><i style="color: yellow;">anytype</i></b> 🦎
 
 -->

@@ -6,6 +6,9 @@ description: ""
 categories: ["⭐️ review"]
 tags: [""]
 programs: [""]
+scopes: [""]
+guides: [""]
+functions: [""]
 serial: "002"
 slug: "review-ph"
 ver: "v1"

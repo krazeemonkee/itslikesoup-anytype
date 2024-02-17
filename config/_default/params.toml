@@ -22,7 +22,7 @@ showScrollToTop = true
 [homepage]
 layout = "page"
 showRecent = true
-showRecentItems = 6
+showRecentItems = 12
 showMoreLink = true
 showMoreLinkDest = "/posts"
 cardView = true
@@ -77,7 +77,7 @@ constrainItemsWidth = false
 heroStyle = ""
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
 showTermCount = true
@@ -94,7 +94,7 @@ showBreadcrumbs = ""
 showViews = false
 showLikes = false
 showTableOfContents = true
-groupByYear = false
+groupByYear = ""
 cardView = false
 cardViewScreenWidth = false
 

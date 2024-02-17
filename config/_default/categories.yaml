@@ -1,0 +1,11 @@
+
+#.toml
+# categories = ["📰 essay", "⛏ tips", "🗜 tricks", "📓 report"]
+#.yaml
+# categories: {}
+
+categories:
+- 📰 essay
+- ⛏ tips
+- 🗜 tricks
+- 📓 report

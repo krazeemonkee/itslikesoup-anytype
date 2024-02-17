@@ -6,6 +6,23 @@ EXAMPLES • EXAMPLES • EXAMPLES • EXAMPLES • EXAMPLES •
 • EXAMPLES • EXAMPLES • EXAMPLES • EXAMPLES • EXAMPLES
 EXAMPLES • EXAMPLES • EXAMPLES • EXAMPLES • EXAMPLES •
 
+
+<div class="slideshow">
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/iphone/zoom1.png" alt="Label 1" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/iphone/zoom2.png" alt="Label 2" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/iphone/zoom3.png" alt="Label 3" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/iphone/zoom4.png" alt="Label 3" style="width: 100%;">
+    </div>
+</div>
+
+
 {{< rawhtml >}}
 <style>
   .slideshow-container {

@@ -1,11 +1,11 @@
 ---
-title: "{{ .Name }}"
-date: {{ .Date }}
+title: "006"
+date: 2024-02-16T21:12:09-08:00
 draft: false
 description: ""
 categories: [""]
 tags: [""]
-programs: [""]
+programs: ["anytype"]
 scopes: [""]
 guides: [""]
 functions: [""]
@@ -19,7 +19,7 @@ featuredImage: ""
 
 
 
-<!-- scraps
+<!-- scrap
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
