@@ -7,9 +7,9 @@ categories: [""]
 tags: ["🎯 shortcut", "💠 all-ways", "❔how to"]
 programs: [""]
 scopes: [""]
-guides: [""]
-functions: [""]
-serial: ""
+guides: ["🐥 beginner's"]
+functions: ["🔧 modify", "🕎 format"]
+serial: "007"
 slug: ""
 ver: "v1"
 changes: ""

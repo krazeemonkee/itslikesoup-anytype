@@ -5,7 +5,7 @@ draft: false
 description: ""
 categories: [""]
 tags: [""]
-programs: ["anytype"]
+programs: [""]
 scopes: [""]
 guides: [""]
 functions: [""]
