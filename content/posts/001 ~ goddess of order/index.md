@@ -1,15 +1,15 @@
 ---
 # title: "goddess of order"
-title: "order vs chaos"
 # title: "order vs chaos"
-# title: "welcome, order"
+# title: "order vs chaos"
+title: "welcome, order"
 date: 2024-02-11T04:42:16-08:00
 draft: false
 description: ""
 categories: ["📰 essay"]
 tags: ["🗿 origin"]
-programs: [""]
-scopes: [""]
+# programs: ["🦎 anytype"]
+scopes: ["🏝 beyond/outside prog"]
 guides: [""]
 functions: [""]
 serial: "001"

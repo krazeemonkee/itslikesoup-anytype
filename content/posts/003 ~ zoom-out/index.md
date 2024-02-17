@@ -3,12 +3,12 @@ title: "zoom-out"
 date: 2024-02-13T14:37:27-08:00
 draft: false
 description: ""
-categories: [""]
-tags: [""]
-programs: [""]
-scopes: [""]
-guides: [""]
-functions: [""]
+categories: ["⛏ tips"]
+tags: ["🎯 shortcut", "💠 all-ways", "❔ how to"]
+# programs: ["🦎 anytype"]
+scopes: ["🌐 global"]
+guides: ["🐥 beginner's"]
+functions: ["👁 view"]
 serial: ""
 slug: ""
 ver: "v1"

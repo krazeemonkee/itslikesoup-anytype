@@ -3,9 +3,9 @@ title: "005"
 date: 2024-02-15T21:11:57-08:00
 draft: false
 description: ""
-categories: ["📓 report"]
+categories: ["📓 report", "🔱 update"]
 tags: [""]
-programs: [""]
+# programs: ["🦎 anytype"]
 scopes: [""]
 guides: [""]
 functions: [""]

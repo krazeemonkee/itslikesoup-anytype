@@ -5,8 +5,8 @@ draft: false
 description: ""
 categories: [""]
 tags: ["🎯 shortcut", "💠 all-ways", "❔how to"]
-programs: [""]
-scopes: [""]
+# programs: ["🦎 anytype"]
+scopes: ["⚛️ object"]
 guides: ["🐥 beginner's"]
 functions: ["🔧 modify", "🕎 format"]
 serial: "007"
@@ -16,6 +16,14 @@ changes: ""
 featuredImage: ""
 heroStyle: "big"
 ---
+
+<style>
+.eo-footer {
+  display: none;
+}
+</style>
+
+
 all the ways to format text in a content block
 
 ## keyboard shortcuts
@@ -38,6 +46,12 @@ all the ways to format text in a content block
         2. enter
 
 ##
+
+
+
+
+<script async src="https://eomail6.com/form/c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215.js" data-form="c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215"></script>
+
 
 
 

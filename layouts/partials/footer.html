@@ -25,6 +25,13 @@
         </ul>
     </nav>
     {{ end }} {{ end }}
+    <div class="newsletter">
+        <script
+            async
+            src="https://eomail6.com/form/c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215.js"
+            data-form="c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215"
+        ></script>
+    </div>
     <div class="flex items-center justify-between">
         {{/* Copyright */}} {{ if .Site.Params.footer.showCopyright | default
         true }}
@@ -53,6 +60,7 @@
         </p>
         {{ end }}
     </div>
+
     <script>
         {{ if not .Site.Params.disableImageZoom | default true }}
         mediumZoom(document.querySelectorAll("img:not(.nozoom)"), {

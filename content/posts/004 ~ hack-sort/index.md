@@ -1,15 +1,15 @@
 ---
-title: "004"
+title: "hack-sort"
 date: 2024-02-14T21:11:49-08:00
 draft: false
 description: ""
-categories: [""]
+categories: ["🗜 tricks"]
 tags: [""]
-programs: [""]
-scopes: [""]
+# programs: ["🦎 anytype"]
+scopes: ["📊 set view"]
 guides: [""]
 functions: [""]
-serial: ""
+serial: "004"
 slug: ""
 ver: "v1"
 changes: ""

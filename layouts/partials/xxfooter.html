@@ -1,0 +1,17 @@
+{{ if .IsHome }}
+  <div class="newsletter">
+    <!-- Embed EmailOctopus signup form code here -->
+  </div>
+{{ end }}
+
+{{ with .Site.Menus.tags.ByWeight }}
+  <nav>
+    <ul>
+      {{ range . }}
+        <li><a href="{{ .URL }}">{{ .Name }}</a></li>
+      {{ end }}
+    </ul>
+  </nav>
+{{ end }}
+
+<!-- Other footer menus... -->

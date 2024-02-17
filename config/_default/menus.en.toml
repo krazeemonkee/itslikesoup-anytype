@@ -114,3 +114,7 @@ weight = 10
 name = "categories"
 pageRef = "categories"
 weight = 20
+
+[[footer]]
+name = "newsletter"
+weight = 30

@@ -5,8 +5,8 @@ draft: false
 description: ""
 categories: ["⭐️ review"]
 tags: [""]
-programs: [""]
-scopes: [""]
+# programs: ["🦎 anytype"]
+scopes: ["🏝 beyond/outside prog"]
 guides: [""]
 functions: [""]
 serial: "002"
