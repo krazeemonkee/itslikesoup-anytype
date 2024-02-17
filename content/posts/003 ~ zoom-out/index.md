@@ -84,6 +84,17 @@ fix: "convert flex imgs w/ slideshow ~ refer to slideshow.md for the closest ite
     </div>
 </div>
 
+### homepage
+
+<div style="display: flex;">
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/anytype/homepage/homepage-in.png" alt="Label 1" style="width: 100%;">
+    </div>
+    <div style="flex: 1; padding: 10px;">
+        <img src="img/ie/anytype/homepage/homepage-out.png" alt="Label 1" style="width: 100%;">
+    </div>
+</div>
+
 
 
 <!-- scraps
