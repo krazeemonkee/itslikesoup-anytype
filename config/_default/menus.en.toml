@@ -31,7 +31,7 @@ pageRef = "categories"
 weight = 20
 
 [[main]]
-name = "🦅 overview"
+name = "📰 essay"
 parent = "📇 categories"
 pageRef = "categories/overview"
 weight = 20
@@ -69,7 +69,7 @@ name = ""
 #pageRef = "tags/interesting-topic"
 #weight = 10
 
-[[main]]
+# [[main]]
 # name = "youtube"
 # identifier = "youtube"
 

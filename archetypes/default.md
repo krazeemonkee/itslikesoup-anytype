@@ -3,7 +3,7 @@ title: "{{ .Name }}"
 date: {{ .Date }}
 draft: false
 description: ""
-category: [""]
+categories: [""]
 tags: [""]
 programs: ["anytype"]
 serial: ""
@@ -14,6 +14,9 @@ featuredImage: ""
 ---
 
 
-<!-- research
+<!-- scrap
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
 -->

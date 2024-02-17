@@ -1,17 +1,19 @@
 ---
-title: "002"
-date: 2024-02-15T23:00:13-08:00
+title: "my review on product hunt"
+date: 2024-02-12T23:00:13-08:00
 draft: false
 description: ""
-category: [""]
+categories: ["⭐️ review"]
 tags: [""]
-programs: ["anytype"]
-serial: ""
-slug: ""
+programs: [""]
+serial: "002"
+slug: "review-ph"
 ver: "v1"
-featuredImage: ""
+featuredImage: "https://pbs.twimg.com/profile_images/1729527052393406465/P3nMEB0B_400x400.jpg"
 ---
-
+<p style="text-align: justify;">
+on <i>july 19, 2023</i>, <b><i>anytype</i></b> officially launched to the public on <b><i>product hunt</i></b> ~ i had already been using the beta version for several months at that point + after  having poured in hundreds of hours tailoring it to fit my specific needs ~
+</p>
 {{< lead >}}
 *below is my [review](https://www.producthunt.com/products/anytype/reviews) left on producthunt the day of their public launch*
 {{< /lead >}}

@@ -1,20 +1,21 @@
 ---
 # title: "goddess of order"
-# title: "the power of order"
+title: "order vs chaos"
 # title: "order vs chaos"
 date: 2024-02-11T04:42:16-08:00
 draft: false
 description: ""
-categories: ["🦅 overview"]
+categories: ["📰 essay"]
 tags: ["🗿 origin"]
 programs: [""]
 serial: "001"
-slug: "origin"
+slug: "order"
 ver: "v1"
 changes: ""
 featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
 ---
-
+<!--
+-->
 ## the power of order
 
 <p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <span style="color: yellow;">order</span> is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can flourish, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 <span style="color: yellow;">order</span> shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony ⚖️ by gaining a greater grasp on the causes/input of a system, one is afforded more predictable, expected effects/outputs 🏭 in an <span style="color: yellow;">ordered</span> system, all individual pieces are fully accounted for where when viewed from above, the composition reveals the relations of all interconnected components comprising the whole 🧩
