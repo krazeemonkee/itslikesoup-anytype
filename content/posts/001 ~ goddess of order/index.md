@@ -99,7 +99,7 @@ featuredImage: "https://legendaryladieshub.com/maat-egyptian-goddess/"
 <p style="padding: 0; margin: 0 0 0 0; text-align: justify;">i've recently realized just how deep my passion for organizing goes + how for the past handful of years, i've spent every single day defining + refining some sort of system to improve order + w/ it, my life 🌟 since adopting <b><i style="color: yellow;">anytype</i></b> into my system 9 months ago, i instantly recognized it as precisely the tool i've been searching for + have since used it every single day to cyphon just about every aspect of my life through it 🧬 all my projects, all my tasks, all my thoughts 🌬 they all get captured + processed through <b><i style="color: yellow;">anytype</i></b> 💠 i'd like to share some of the bits ñ pieces i've learned + observed along the way so that it may, again, potentially help one other person invite more order into their lives 💛
 
 <div style="display: flex; justify-content: center;">
-    <div style="position: relative; width: 44%;">
+    <div style="position: relative; width: 50%;">
         <img src="img/swirling-gold-vortex.gif" alt="Image Description" style="width: 100%; border-radius: 50%;">
         <p style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 16px; font-weight: bold; text-align: center; margin: 0; padding: 0">
         whether you follow along or not, may <b style="color: yellow;">maat/order/peace</b> be forever present ✨ in your life ✨
