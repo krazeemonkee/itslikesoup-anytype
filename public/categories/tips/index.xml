@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>⛏ tips on itslikesoup</title>
+    <link>https://anytype.itslikesoup.net/categories/tips/</link>
+    <description>Recent content in ⛏ tips on itslikesoup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 kreme</copyright>
+    <lastBuildDate>Tue, 13 Feb 2024 14:37:27 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/categories/tips/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>zoom-out</title>
+      <link>https://anytype.itslikesoup.net/posts/003-~-zoom-out/</link>
+      <pubDate>Tue, 13 Feb 2024 14:37:27 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/003-~-zoom-out/</guid>
+      <description>iphone zoom options # i apologe for the improper presentation here 🙏🏽 this should have been a simple image-slider/carousel so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ claude.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/003-~-zoom-out/feature%20land-zoom-out.gif" />
+    </item>
+    
+  </channel>
+</rss>

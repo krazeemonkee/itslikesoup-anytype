@@ -7,15 +7,55 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 kreme</copyright>
-    <lastBuildDate>Tue, 13 Feb 2024 14:37:27 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 17 Feb 2024 08:06:30 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>command-format text</title>
+      <link>https://anytype.itslikesoup.net/posts/format-text/</link>
+      <pubDate>Sat, 17 Feb 2024 08:06:30 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/format-text/</guid>
+      <description>all the ways to format text in a content block</description>
+      
+    </item>
+    
+    <item>
+      <title>006</title>
+      <link>https://anytype.itslikesoup.net/posts/006/</link>
+      <pubDate>Fri, 16 Feb 2024 21:12:09 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/006/</guid>
+      <description> </description>
+      
+    </item>
+    
+    <item>
+      <title>005</title>
+      <link>https://anytype.itslikesoup.net/posts/005/</link>
+      <pubDate>Thu, 15 Feb 2024 21:11:57 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/005/</guid>
+      <description> ➡ progressions # add link now top/first option rather than last 🌊 increased flow/reduced resistance ⬅ regressions # 🪛 fixes # 🦋 changes # </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/005/feature%20v0.38.8.png" />
+    </item>
+    
+    <item>
+      <title>hack-sort</title>
+      <link>https://anytype.itslikesoup.net/posts/004-~-hack-sort/</link>
+      <pubDate>Wed, 14 Feb 2024 21:11:49 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/004-~-hack-sort/</guid>
+      <description> </description>
+      
+    </item>
+    
     <item>
       <title>zoom-out</title>
       <link>https://anytype.itslikesoup.net/posts/003-~-zoom-out/</link>
       <pubDate>Tue, 13 Feb 2024 14:37:27 -0800</pubDate>
       
       <guid>https://anytype.itslikesoup.net/posts/003-~-zoom-out/</guid>
-      <description>iphone zoom options # apologies for the improper presentation here 🙏🏽 this should have been a simple slideshow so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ claude.</description>
-      
+      <description>iphone zoom options # i apologe for the improper presentation here 🙏🏽 this should have been a simple image-slider/carousel so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ claude.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/003-~-zoom-out/feature%20land-zoom-out.gif" />
     </item>
     
     <item>
@@ -29,7 +69,7 @@
     </item>
     
     <item>
-      <title>order vs chaos</title>
+      <title>welcome, order</title>
       <link>https://anytype.itslikesoup.net/posts/order/</link>
       <pubDate>Sun, 11 Feb 2024 04:42:16 -0800</pubDate>
       
