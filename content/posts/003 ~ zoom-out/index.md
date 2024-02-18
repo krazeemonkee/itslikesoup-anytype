@@ -34,9 +34,11 @@ fix: "convert flex imgs w/ slideshow ~ refer to slideshow.md for the closest ite
     </div>
 </div>
 
-{{< lead >}}
-<p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <i> i apologe for the poor presentation here  🙏🏽 this should have been a simple slideshow so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ claude.ai but to no avail ~ i will place a marker here + return later to improve the presentation when time + knowledge permit </i></p>
-{{< /lead >}}
+{{< alert "heart" >}}
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <i> i apologe for the improper presentation here  🙏🏽 this should have been a simple image-slider/carousel so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ <b><i>claude.ai</i></b> but to no avail ~ i will place a marker here + return later to switch it to a carousel when time + knowledge permit </i></p>
+{{< /alert >}}
+
+
 
 ### blocks of text
 
@@ -100,7 +102,10 @@ fix: "convert flex imgs w/ slideshow ~ refer to slideshow.md for the closest ite
 <!-- scraps
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
-
+> <p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <i> i apologe for the poor presentation here  🙏🏽 this should have been a simple slideshow so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ claude.ai but to no avail ~ i will place a marker here + return later to improve the presentation when time + knowledge permit </i></p>
+{{< lead >}}
+<p style="padding: 0; margin: 0 0 0 0; text-align: justify"> <i> i apologe for the poor presentation here  🙏🏽 this should have been a simple slideshow so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ claude.ai but to no avail ~ i will place a marker here + return later to improve the presentation when time + knowledge permit </i></p>
+{{< /lead >}}
 
 style="display: flex;"
 

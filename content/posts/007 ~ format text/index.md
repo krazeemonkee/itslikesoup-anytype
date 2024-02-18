@@ -50,7 +50,6 @@ all the ways to format text in a content block
 
 
 
-<script async src="https://eomail6.com/form/c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215.js" data-form="c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215"></script>
 
 
 
@@ -59,6 +58,9 @@ all the ways to format text in a content block
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+<script async src="https://eomail6.com/form/c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215.js" data-form="c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215"></script>
+
+<script async src="https://eomail6.com/form/c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215.js" data-form="c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215"></script>
 
 
 -->

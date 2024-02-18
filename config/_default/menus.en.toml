@@ -115,6 +115,6 @@ name = "categories"
 pageRef = "categories"
 weight = 20
 
-[[footer]]
-name = "newsletter"
-weight = 30
+# [[footer]]
+# name = "newsletter"
+# weight = 30
