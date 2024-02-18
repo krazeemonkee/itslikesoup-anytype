@@ -1,0 +1,30 @@
+[[journies]]
+name = "solo"
+icon = "🎣"
+
+[[journies]]
+name = "story"
+icon = "🏰"
+
+[[journies]]
+name = "series"
+icon = "🎏"
+
+[[journies]]
+name = "evergreen"
+icon = "🌲"
+
+
+#[[journies]]
+#name = "solo"
+#icon = "🎣"
+#name = "story"
+#icon = "🏰"
+#name = "series"
+#icon = "🎏"
+#name = "evergreen"
+#icon = "🌲"
+
+#[journey]
+#name = "solo"
+#icon = "🎣"

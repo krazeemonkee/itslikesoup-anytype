@@ -1,6 +1,7 @@
 <footer id="site-footer" class="py-10 print:hidden">
     {{/* Footer menu */}} {{ if .Site.Params.footer.showMenu | default true }}
     {{ if .Site.Menus.footer }}
+    <!--
     <nav
         class="flex flex-row pb-4 text-base font-medium text-neutral-500 dark:text-neutral-400"
     >
@@ -24,12 +25,22 @@
             {{ end }}
         </ul>
     </nav>
+    -->
     {{ end }} {{ end }}
     <div
-        id="newsletter container"
-        style="display: flex; justify-content: center; margin: -50px 0 0 0"
+        id="newsletter container border"
+        style="display: flex; justify-content: center; margin: 0 0 0 0"
     >
-        <div class="newsletter" style="width: 33%; max-width: 300px">
+        <div
+            class="newsletter"
+            style="
+                width: 33%;
+                max-width: 333px;
+                border-top: 4px solid red;
+                border-radius: 11px;
+                padding: 11px;
+            "
+        >
             <script
                 async
                 src="https://eomail6.com/form/c2f5dfcc-cdd7-11ee-a9b6-8f75e8c9b215.js"
@@ -37,6 +48,7 @@
             ></script>
         </div>
     </div>
+
     <div class="flex items-center justify-between">
         {{/* Copyright */}} {{ if .Site.Params.footer.showCopyright | default
         true }}
@@ -82,7 +94,16 @@
         src="{{ $jsProcess.RelPermalink }}"
         integrity="{{ $jsProcess.Data.Integrity }}"
     ></script>
+
     {{/* Extend footer - eg. for extra scripts, etc. */}} {{ if templates.Exists
     "partials/extend-footer.html" }} {{ partialCached "extend-footer.html" . }}
     {{ end }}
 </footer>
+
+<!--
+
+border: 4px solid red;
+border-radius: 11px;
+padding: 11px;
+
+-->

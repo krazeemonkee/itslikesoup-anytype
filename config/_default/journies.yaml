@@ -1,0 +1,9 @@
+journies:
+  - name: solo
+    icon: 🎣
+  - name: story
+    icon: 🏰
+  - name: series
+    icon: 🎏
+  - name: evergreen
+    icon: 🌲
