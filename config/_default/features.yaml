@@ -1,2 +1,5 @@
 features:
-  - ⇅ sort
+  sort:
+    id: sort
+    icon: "⇅"
+    label: "⇅ sort"

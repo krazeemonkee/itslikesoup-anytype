@@ -1,4 +1,13 @@
 guides:
-  - 🐥 beginner's
-  - 🐓 intermediate
-  - 🐔 advanced
+  beginners:
+    id: beginners
+    icon: "🐥"
+    label: "🐥 beginner's"
+  intermediate:
+    id: intermediate
+    icon: "🐓"
+    label: "🐓 intermediate"
+  advanced:
+    id: advanced
+    icon: "🐔"
+    label: "🐔 advanced"

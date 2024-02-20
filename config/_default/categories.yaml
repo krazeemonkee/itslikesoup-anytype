@@ -1,11 +1,30 @@
-
 #.toml
 # categories = ["📰 essay", "⛏ tips", "🗜 tricks", "📓 report"]
 #.yaml
 # categories: {}
 
 categories:
-- 📰 essay
-- ⛏ tips
-- 🗜 tricks
-- 📓 report
+  essay:
+    id: essay
+    icon: "📰"
+    label: "📰 essay"
+  guide:
+    id: guide
+    icon: "🗺"
+    label: "🗺 guide"
+  tips:
+    id: tips
+    icon: "⛏"
+    label: "⛏ tips"
+  tricks:
+    id: tricks
+    icon: "🗜"
+    label: "🗜 tricks"
+  report:
+    id: report
+    icon: "📓"
+    label: "📓 report"
+  naming:
+    id: naming
+    icon: ""
+    label: ""

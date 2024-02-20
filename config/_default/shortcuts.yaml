@@ -1,0 +1,21 @@
+shortcuts:
+  zoom-in:
+    id: zoom-in
+    key: "⌘ +"
+    out: "zoom-in"
+  zoom-out:
+    id: zoom-out
+    key: "⌘ -"
+    out: "zoom-out"
+  default-zoom:
+    id: default-zoom
+    key: "⌘ 0"
+    output: "default-zoom"
+#shortcuts:
+#  - in: "⌘ -"
+#    out: "zoom-out"
+#  - in: "⌘ +"
+#    out: "zoom-in"
+#shortcuts:
+#  "⌘ -": "zoom-out"
+#  "⌘ =": "zoom-in"

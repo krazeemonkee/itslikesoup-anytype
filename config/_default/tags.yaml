@@ -1,8 +1,36 @@
 tags:
-  - 🗿 origin
-  - 📰 essay
-  - ⭐️ review
-  - 📓 report
-  - 🎯 shortcut
-  - 💠 all-ways
-  - ❔ how to
+  origin:
+    id: origin
+    icon: "🗿"
+    label: "🗿 origin"
+    desc: "origination of"
+  essay:
+    id: essay
+    icon: "📰"
+    label: "📰 essay"
+    desc: "my writings/perspective on"
+  review:
+    id: review
+    icon: "⭐️"
+    label: "⭐️ review"
+    desc: "my review/analysis of a thing"
+  report:
+    id: report
+    icon: "📓"
+    label: "📓 report"
+    desc: "reporting on"
+  shortcut:
+    id: shortcut
+    icon: "🎯"
+    label: "🎯 shortcut"
+    desc: "shortcuts to get you there faster"
+  all-ways:
+    id: all-ways
+    icon: "💠"
+    label: "💠 all-ways"
+    desc: "all-ways to do one thing"
+  how-to:
+    id: how-to
+    icon: "❔"
+    label: "❔ how-to"
+    desc: "how-to guide"

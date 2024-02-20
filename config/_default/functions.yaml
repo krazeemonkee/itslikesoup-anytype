@@ -1,4 +1,31 @@
 functions:
-  - 👁 view
-  - 🕎 format
-  - 🔧 modify
+  view:
+    id: view
+    icon: "👁"
+    label: "👁 view"
+  format:
+    id: format
+    icon: "🕎"
+    label: "🕎 format"
+  modify:
+    id: modify
+    icon: "🔧"
+    label: "🔧 modify"
+#functions:
+#  id:
+#  - label: "👁 view"
+#    name: view
+#  - label: "🕎 format"
+#    name: "format"
+#  - label: "🔧 modify"
+#    name: "modify"
+#shortcuts:
+#  - shortcut: "⌘ -"
+#    output: "zoom-out"
+#  - shortcut: "⌘ ="
+#   output: "zoom-in"
+
+#functions:
+#  - 👁 view
+#  - 🕎 format
+#  - 🔧 modify

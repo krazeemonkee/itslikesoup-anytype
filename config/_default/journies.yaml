@@ -1,9 +1,33 @@
 journies:
-  - name: solo
-    icon: 🎣
-  - name: story
-    icon: 🏰
-  - name: series
-    icon: 🎏
-  - name: evergreen
-    icon: 🌲
+  solo:
+    id: solo
+    icon: "🎣"
+    label: "🎣 solo"
+  story:
+    id: story
+    icon: "🏰"
+    label: "🏰 story"
+  story:
+    id: series
+    icon: "🎏"
+    label: "🎏 series"
+  evergreen:
+    id: evergreen
+    icon: "🌲"
+    label: "🌲 evergreen"
+
+
+    #journies:
+    # solo:
+    #  id: solo
+    #   icon: 🎣
+    #   label: "🎣 solo"
+    # - id: story
+    #   icon: 🏰
+    #   label: "🏰 story"
+    # - id: series
+    # icon: 🎏
+    #  label: "🎏 series"
+    #- id: evergreen
+    #icon: 🌲
+    #label: "🌲 evergreen"

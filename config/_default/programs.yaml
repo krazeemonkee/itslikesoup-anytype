@@ -1,0 +1,5 @@
+programs:
+  anytype:
+    id: anytype
+    icon: "🦎"
+    label: "🦎 anytype"

@@ -1,5 +1,37 @@
 scopes:
-  - 🌐 global # program-wide
-  - 📊 set view
-  - 🏝 beyond/outside prog
-  - ⚛️ object
+  global:
+    id: global
+    icon: "🌐"
+    label: "🌐 global"
+    desc: "program-wide"
+    color: "lightblue"
+  space:
+    id: space
+    icon: "🌌"
+    label: "🌌 space"
+    desc: "place where all objects live"
+    color: "blue"
+  set:
+    id: set
+    icon: "📊"
+    label: "📊 set"
+    desc: "within set view"
+    color: "green"
+  beyond:
+    id: beyond
+    icon: "🏝"
+    label: "🏝 beyond program"
+    desc: "applies beyond scope of program"
+    color:
+  object:
+    id: object
+    icon: "⚛️"
+    label: "⚛️ object"
+    desc: "object-card view"
+    color: "purple"
+  menu-bar:
+    id: menu-bar
+    icon: "▭"
+    label: "▭ menu-bar"
+    desc: "top-most apple menu-bar"
+    color: "gray"
