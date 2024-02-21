@@ -149,7 +149,13 @@ the following are some sample photos of my space where the first in the series i
     </div>
 </div>
 
-## my preference
+## conclusion
+
+### advice
+
+so, just as an optomotrist would ask you, "better 1 or ... 2", cycle between both views/zooms using <code>⌘ -</code> and <code>⌘ +</code> [or <code>⌘ 0</code> to reset to <code>default zoom</code> if ever you get *lost-in-the-zoom sauce*] throughout your organizing + see which balance of scale-to-saturation pleases you most
+
+### *present-personal-preference*
 
 one of the superpowers anytype extends you is the incredible ability of
 

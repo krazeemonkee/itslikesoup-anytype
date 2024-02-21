@@ -21,7 +21,7 @@ on <i>july 19, 2023</i>, <b><i>anytype</i></b> officially launched to the public
 <img src="img/mighty.gif" width="222px">
 </p>
 {{< lead >}}
-*below is my [review](https://www.producthunt.com/products/anytype/reviews) left on producthunt the day of their public launch*
+*below is my [review](https://www.producthunt.com/products/anytype/reviews) left on **producthunt** the day of **anytype's** public launch*
 {{< /lead >}}
 
 {{< alert icon="heart" iconColor="red" cardColor="#fff8d6" textColor="#000000" >}}

@@ -1,6 +1,8 @@
 ---
 # title: "command-format text"
-title: "format text style"
+# title: "format text style"
+# title: "⌘ 1-9 🎯 format text-style"
+title: "format text-style"
 date: 2024-02-17T08:06:30-08:00
 draft: false
 description: ""

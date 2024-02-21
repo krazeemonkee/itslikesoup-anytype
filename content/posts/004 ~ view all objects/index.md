@@ -41,7 +41,7 @@ you may get a sense of [things being lost // unable to be found] when you first 
 
 ## create <span style="color: aqua;">📊 set</span>/list for a specific <span style="color: aqua;">⚛️ object</span>-type
 
-### 1 ~ navigate toobject's library page
+### ~ navigate to object's library page
 
 <p style="text-align: justify"> to view all the notes [or <code>⚛️ objects</code>] for the default object-type <code>📝 note</code>
 </p>
@@ -61,7 +61,7 @@ in ⚛️ <b style="color: yellow;">object view</b> 👁
 
 {{< /alert >}}
 
-### 2 ~ create set/list of all objects
+### ~ create set/list of all objects
 
 once at the object's library page, you can now create a set [or list] of all the instances of this object [all your notes]
 
