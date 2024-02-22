@@ -49,6 +49,10 @@ inside <view>object-view</view>, you're able to format the text inside a content
     11. <details><summary><code>⌘ 9</code> == <code>toggle</code></summary><img src="assets/command/format-text-style/keyboard/9.png"></details>
 {{< /alert >}}
 
+{{< act >}}
+replace png images w/ tiny jpg
+{{< /act >}}
+
 
 <!-- scraps
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~

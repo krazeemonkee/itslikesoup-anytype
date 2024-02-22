@@ -25,20 +25,35 @@ featuredImage: "https://kyojuuros.tumblr.com/post/685089475098034176/animations-
 
 ## where are my notes?
 
-you may get a sense of [things being lost // unable to be found] when you first start using <b><i>anytype</i></b> ~
+in the start of your <b><i>anytype</i></b> journey, you may often get the sense of things being lost or unable to be found ~
 
 {{< lead >}}
 🤷🏻‍♂️ <i>i created a note but where did it go + how can i recall/retrieve it?</i>
 {{< /lead >}}
 
 
-<p style="text-align: justify">that note, an <code> ⚛️ object</code>, lives w/ all the other objects of its same type within your <code>🌌 space</code> [where all of your objects, <i>of all types</i>, live]</p>
+<p style="text-align: justify">like all other components of  <b><i>anytype</i></b>, that note is an <code> ⚛️ object</code> that lives together w/ all the other objects of the same type within your <code>🌌 space</code> [where all of your objects, <i>of all types</i>, are gathered]</p>
 
 
-<p style="text-align: justify">out of the box, there is no root directory you can access/view all your objects or all objects of a particular type, but you can easily create such a list that displays all of your objects or specific object-type ~ in <b><i>anytype</i></b>, these are called <code>📊 sets</code><p>
+<p style="text-align: justify">out of the box, there is no root directory that allows you access to view all your objects or all objects of a particular type, but you can easily create such a list, or as <b><i>anytype</i></b> calls them, <code>📊 sets</code>
 
-><p style="text-align: justify">this article will discuss how to create a <code>📊 set</code> of a particular <code>⚛️ object-type</code> + place it in your widget/side-panel for quick-access ~•~ the following article will show how you can do the same thing but with all objects in your space, not just for a specific object-type</p>
+## create a set to view all objects
 
+### sorted by creation date
+
+### sorted by opened date
+
+### sorted by modified date
+
+
+
+>the next article will show how you can do the same thing but with all objects in your space, not just for a specific object-type</p>
+
+
+<!-- scrap
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
+~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
+~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 ## create <span style="color: aqua;">📊 set</span>/list for a specific <span style="color: aqua;">⚛️ object</span>-type
 
 ### ~ navigate to object's library page
@@ -92,12 +107,6 @@ redo or maybe have image carousel... slow your ponies...
 {{< /act >}}
 
 
-
-<!-- scrap
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
-~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-
 >you created a note but where did it go?
 
 that note [an ⚛️ object] lives within/under
@@ -139,6 +148,10 @@ that comprise object
 ## view all i nstances of an object // view all objects of an object-type
 
 ## <code>📊 set</code>/list of <code>⚛️ object</code>-type
+
+, that display either all of your objects or all objects of a particular object-type ~
+
+this article will guide you into creating 2 ways to view every object inside your space
 
 
 -->

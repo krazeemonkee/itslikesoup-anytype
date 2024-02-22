@@ -1,4 +1,8 @@
 menu-bar:
   - image
 
-<view> </view>
+anytype:
+  - id: sets
+  - icon: "📊"
+  - label: "📊 sets"
+  - desc: "a subset of the gathering/assembly of objects within an object type"
