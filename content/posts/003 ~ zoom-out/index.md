@@ -181,7 +181,8 @@ for that reason, the more information you can gather at a glance, the less of th
         <ol>
             <li>1. | ⌘ - | | ⌘ = | == zoom in/out
         </ol>
-{{< /alert >}} </span>
+{{< /alert >}}
+
 
 
 ![mighty](/img/mighty.gif)
