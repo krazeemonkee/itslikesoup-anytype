@@ -5,9 +5,11 @@ date: 2024-02-15T21:11:57-08:00
 draft: false
 description: ""
 categories:
-  - 📓 report
+  - 🗺 guide
   - "🔱 update"
-tags: [""]
+tags:
+  - 👁 view
+  - 🦅 overview
 # programs:
 #  - anytype
 scopes: [""]

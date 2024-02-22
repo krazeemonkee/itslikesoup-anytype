@@ -1,5 +1,6 @@
 ---
-title: "how to view all objects"
+# title: "how to view all objects"
+title: "what the heck are objects?"
 date: 2024-02-14T21:11:49-08:00
 draft: false
 description: ""
@@ -25,19 +26,49 @@ featuredImage: "https://kyojuuros.tumblr.com/post/685089475098034176/animations-
 
 ## where are my notes?
 
-in the start of your <b><i>anytype</i></b> journey, you may often get the sense of things being lost or unable to be found ~
+<p style="text-align: justify">in the start of your <b><i>anytype</i></b> journey, you may often get the sense of things being lost or unable to be found ~</p>
 
 {{< lead >}}
-🤷🏻‍♂️ <i>i created a note but where did it go + how can i recall/retrieve it?</i>
+🤷🏻‍♂️ <i>i created a note but where did it go + how can i retrieve/recall it?</i>
 {{< /lead >}}
 
+<p style="text-align: justify">before knowing where your notes are, it might help to first understand <i>what</i> your notes are ~
+</p>
 
-<p style="text-align: justify">like all other components of  <b><i>anytype</i></b>, that note is an <code> ⚛️ object</code> that lives together w/ all the other objects of the same type within your <code>🌌 space</code> [where all of your objects, <i>of all types</i>, are gathered]</p>
+## *what* are my notes?
 
 
-<p style="text-align: justify">out of the box, there is no root directory that allows you access to view all your objects or all objects of a particular type, but you can easily create such a list, or as <b><i>anytype</i></b> calls them, <code>📊 sets</code>
+<p style="text-align: justify">like all other components, or building blocks of  <b><i>anytype</i></b>, that note you wrote is actually an <code> ⚛️ object</code>, an offspring instantiated from a parental family/type ~ so, that note lives together w/ all other sibling-objects  of the same type [<code>✏️ notes</code>, for example] within your <code>🌌 space</code> [place where <i>all objects</i>, <i>of all types</i>, are stored] ~
+</p>
 
+![](img/empty-room.png)
+
+<p style="text-align: justify">try imagining every new <code>⚛️ object</code> you create in <b><i>anytype</i></b> as an actual, physical object that now exists inside an empty room, inside a house ~ this room can <i>only</i> hold objects of a particular type, in this case, <code>✏️ notes</code> ~
+</p>
+
+![](assets/empty-room/output/empty-room.png)
+
+<p style="text-align: justify">the more notes you create, the more objects that fill this <i>never-ending</i>/<i>ever-expanding</i> room, the harder it will continually get to find specific objects in the future ~
+</p>
+
+
+<p style="text-align: justify">to prevent the eventuality of such a chaotic inevitability, you must simply bring order to the system by separating the objects into into groups relating the bunch by some common, or similar traits/attributes shared by all other objects in the group
+</p>
+
+<p style="text-align: justify">much like a birth certificate, a trait/attribute that every object is given the moment it is created is a <code>creation date</code> ~ anytype calls these bits of information that identify the nature of an object as <code>🖇 relations</code></p>
+
+<p style="text-align: justify">since every object has a <code>🖇 relations</code>/<code>📅 creation date</code>, this relation therefore units every single object inside every room [<code>⚛️ object-type</code>] in your entire house [<code>🌌 space</code>] ~
+</p>
+
+<p style="text-align: justify">so, of all the objects in a given room, <code>✏️ notes</code>, in our example, we can choose to put them into a magical container that
+
+
+<p style="text-align: justify">out of the box, there is no root directory that allows you to view/access all your objects or all objects of a particular type, but you can easily create such an assorted list, or as it's referred to in <b><i>anytype</i></b>, <code>📊 sets</code>
+
+a set starts out as an aggregate of every single object that's an instance of it's parent's object-type ~ it's every single object
 ## create a set to view all objects
+
+
 
 ### sorted by creation date
 
@@ -153,5 +184,28 @@ that comprise object
 
 this article will guide you into creating 2 ways to view every object inside your space
 
+instance of that object-type's
 
+, along w/ all of it's sibling objects/notes
+
+contents are organized by similarity ~ for instance,
+
+the more notes you create, the more objects that fill this never-ending room, the harder it will continually get to find specific objects in the future ~ so, to prevent the eventuality of this chaotic, unorderly scenario, you must simply separate the objects + group them in bins/containers according to a trait that's shared by all the objects inside
+
+ according to a trait that's shared by all the objects inside
+
+<p style="text-align: justify">try imagining every new <code>⚛️ object</code>/<code>✏️ note</code>
+
+<p style="text-align: justify">try imagining every new <code>⚛️ object</code> you create in <b><i>anytype</i></b> as an actual, physical object that now exists inside an empty room [<code>⚛️ object-type</code>], inside a house [<code>🌌 space</code>] ~ this room can only hold objects of a particular type, in this case, <code>✏️ notes</code> </p>
+
+<p style="text-align: justify"> just as you may put a label on each object to more easily identify them, this identity is called relations each object has properties/details/info ~</p>
+
+<p style="text-align: justify">the following article will show you how to view all the objects inside a particular room, or object-type, of the house but i will now discuss if you wish to find all the objects in the house</p>
+
+<p style="text-align: justify">these objects are the building blocks for your entire <b><i>anytype</i></b> database, where relations connect objects together
+</p>
+
+groupable/sortable containers them in bins/containers according to a trait that's shared by all the objects inside
+<p style="text-align: justify">to prevent the eventuality of this chaotic, unorderly future, you must simply separate/arrange the objects into groups, placing them in containers containing other objects that share similar traits ~
+</p>
 -->

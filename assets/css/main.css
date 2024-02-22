@@ -358,6 +358,18 @@ code {
 
 /* Custom */
 
+.justified {
+    text-align: justify;
+}
+
+body {
+    background-color: red;
+}
+
+h1 {
+    color: blue;
+}
+
 pre {
     text-align: left;
 }

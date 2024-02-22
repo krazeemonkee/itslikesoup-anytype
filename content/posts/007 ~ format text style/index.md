@@ -15,6 +15,9 @@ tags:
   - 🦎 anytype
 scopes:
   - ⚛️ object
+  - 📙 content box
+  - contextual-menu
+  - properties-bar
 guides:
   - 🐥 beginners
 functions:
