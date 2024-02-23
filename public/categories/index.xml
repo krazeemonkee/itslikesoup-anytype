@@ -7,13 +7,33 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 kreme</copyright>
-    <lastBuildDate>Thu, 15 Feb 2024 21:11:57 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 Feb 2024 18:53:45 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>📓 report</title>
-      <link>https://anytype.itslikesoup.net/categories/report/</link>
-      <pubDate>Thu, 15 Feb 2024 21:11:57 -0800</pubDate>
+      <title>🎡 my-system</title>
+      <link>https://anytype.itslikesoup.net/categories/my-system/</link>
+      <pubDate>Mon, 19 Feb 2024 18:53:45 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/categories/report/</guid>
+      <guid>https://anytype.itslikesoup.net/categories/my-system/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>🗺 guide</title>
+      <link>https://anytype.itslikesoup.net/categories/guide/</link>
+      <pubDate>Sat, 17 Feb 2024 08:06:30 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/categories/guide/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>📐 my-rules</title>
+      <link>https://anytype.itslikesoup.net/categories/my-rules/</link>
+      <pubDate>Fri, 16 Feb 2024 21:12:09 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/categories/my-rules/</guid>
       <description></description>
       
     </item>
@@ -24,16 +44,6 @@
       <pubDate>Thu, 15 Feb 2024 21:11:57 -0800</pubDate>
       
       <guid>https://anytype.itslikesoup.net/categories/update/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>🗜 tricks</title>
-      <link>https://anytype.itslikesoup.net/categories/tricks/</link>
-      <pubDate>Wed, 14 Feb 2024 21:11:49 -0800</pubDate>
-      
-      <guid>https://anytype.itslikesoup.net/categories/tricks/</guid>
       <description></description>
       
     </item>

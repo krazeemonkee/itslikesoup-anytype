@@ -7,55 +7,105 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 kreme</copyright>
-    <lastBuildDate>Sat, 17 Feb 2024 08:06:30 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 22 Feb 2024 10:34:47 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>command-format text</title>
+      <title>a house full of objects</title>
+      <link>https://anytype.itslikesoup.net/posts/house-of-objects/</link>
+      <pubDate>Thu, 22 Feb 2024 10:34:47 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/house-of-objects/</guid>
+      <description>where are my notes?</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/house-of-objects/feature%20endless-hall.gif" />
+    </item>
+    
+    <item>
+      <title>011</title>
+      <link>https://anytype.itslikesoup.net/posts/011/</link>
+      <pubDate>Wed, 21 Feb 2024 10:34:40 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/011/</guid>
+      <description> </description>
+      
+    </item>
+    
+    <item>
+      <title>010</title>
+      <link>https://anytype.itslikesoup.net/posts/010/</link>
+      <pubDate>Tue, 20 Feb 2024 11:17:38 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/010/</guid>
+      <description> </description>
+      
+    </item>
+    
+    <item>
+      <title>object ~ dream journal</title>
+      <link>https://anytype.itslikesoup.net/posts/object-dream-journal/</link>
+      <pubDate>Mon, 19 Feb 2024 18:53:45 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/object-dream-journal/</guid>
+      <description>few things interest me more in this life than lucid dreaming ~ to gain awareness that you&amp;rsquo;re dreaming, granting you powers of genie where what you wish, becomes so ~</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/object-dream-journal/feature%20paprika%20red%20carpet.gif" />
+    </item>
+    
+    <item>
+      <title>my most used shortcuts</title>
+      <link>https://anytype.itslikesoup.net/posts/008-~-top-shortcuts/</link>
+      <pubDate>Sun, 18 Feb 2024 16:48:23 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/008-~-top-shortcuts/</guid>
+      <description> use often esc == exit scope ⌘ n == new object ⌘ 0-9 == format text-style intend to incorporate ⌘ ⇧ r == open relation-pane to fix breaks ⌘ - == zoom-out if i enter ⌘ 0 to format text-style: text, the same key combination also doubles as the output default zoom so i must use this shortcut following ⌘ 0 to zoom-out </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/008-~-top-shortcuts/feature%20typing-anime.gif" />
+    </item>
+    
+    <item>
+      <title>format text-style</title>
       <link>https://anytype.itslikesoup.net/posts/format-text/</link>
       <pubDate>Sat, 17 Feb 2024 08:06:30 -0800</pubDate>
       
       <guid>https://anytype.itslikesoup.net/posts/format-text/</guid>
-      <description>all the ways to format text in a content block</description>
-      
+      <description>inside object-view, you&amp;rsquo;re able to format the text inside a content-box to many different styles</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/format-text/feature%20og~cycle~format.gif" />
     </item>
     
     <item>
-      <title>006</title>
-      <link>https://anytype.itslikesoup.net/posts/006/</link>
+      <title>the rules of a system</title>
+      <link>https://anytype.itslikesoup.net/posts/rules-of-a-system/</link>
       <pubDate>Fri, 16 Feb 2024 21:12:09 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/posts/006/</guid>
-      <description> </description>
-      
+      <guid>https://anytype.itslikesoup.net/posts/rules-of-a-system/</guid>
+      <description>a system is defined by the set of rules it applies to a given input, yielding a repeatable, expected output ~ on it&#39;s own, a system functions as designed, in perpetuity ~ often, it is the operators of a system that don&#39;t adhere to its rules + therefore, skew the desired results/output ~ it would be of immense benefit for one to view their time + effort spent organizing on anytype as not just organizing, but rather building a system that organizes ~ it&#39;s a subtle distinction but creating a system that continually re/produces a desired result means you only have to build it once and like a factory, it will continue to produce just as it was designed to ~ in this series, i will be compiling some of the rules from my system that injects order through consistency as the scale of content grows w/ time ~ </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/rules-of-a-system/feature%20factory%20tortillaline%20copy.gif" />
     </item>
     
     <item>
-      <title>005</title>
-      <link>https://anytype.itslikesoup.net/posts/005/</link>
+      <title>view all objects *of a type*</title>
+      <link>https://anytype.itslikesoup.net/posts/005-~-view-all-objects-of-a-type/</link>
       <pubDate>Thu, 15 Feb 2024 21:11:57 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/posts/005/</guid>
-      <description> ➡ progressions # add link now top/first option rather than last 🌊 increased flow/reduced resistance ⬅ regressions # 🪛 fixes # 🦋 changes # </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/005/feature%20v0.38.8.png" />
+      <guid>https://anytype.itslikesoup.net/posts/005-~-view-all-objects-of-a-type/</guid>
+      <description>this guide will show you first how to create a set for a particular object-type, then how to place a widget in the left side-panel so that you may quickly access it at anytime, from anywhere</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/005-~-view-all-objects-of-a-type/feature%20simba%20shadow.gif" />
     </item>
     
     <item>
-      <title>hack-sort</title>
-      <link>https://anytype.itslikesoup.net/posts/004-~-hack-sort/</link>
+      <title>view all objects</title>
+      <link>https://anytype.itslikesoup.net/posts/view-all-objects/</link>
       <pubDate>Wed, 14 Feb 2024 21:11:49 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/posts/004-~-hack-sort/</guid>
+      <guid>https://anytype.itslikesoup.net/posts/view-all-objects/</guid>
       <description> </description>
-      
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/view-all-objects/feature%20lion-king.gif" />
     </item>
     
     <item>
       <title>zoom-out</title>
-      <link>https://anytype.itslikesoup.net/posts/003-~-zoom-out/</link>
+      <link>https://anytype.itslikesoup.net/posts/zoom-out/</link>
       <pubDate>Tue, 13 Feb 2024 14:37:27 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/posts/003-~-zoom-out/</guid>
-      <description>iphone zoom options # i apologe for the improper presentation here 🙏🏽 this should have been a simple image-slider/carousel so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ claude.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/003-~-zoom-out/feature%20land-zoom-out.gif" />
+      <guid>https://anytype.itslikesoup.net/posts/zoom-out/</guid>
+      <description>iphone zoom options # if you&#39;re an iphone user, the first time you powered up the machine that will become your closest ever friend, it asked you during the setup process how you&#39;d like your display ~</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/zoom-out/feature%20land-zoom-out.gif" />
     </item>
     
     <item>
@@ -64,18 +114,18 @@
       <pubDate>Mon, 12 Feb 2024 23:00:13 -0800</pubDate>
       
       <guid>https://anytype.itslikesoup.net/posts/review-ph/</guid>
-      <description>on july 19, 2023, anytype officially launched to the public on product hunt ~ i had already been using the beta version for several months at that point + after having poured in hundreds of hours tailoring it to fit my specific needs ~ below is my review left on producthunt the day of their public launch &#34;</description>
+      <description>on july 19, 2023, anytype officially launched to the public on product hunt ~ i had already been using the beta version for 5 months at that point, pouring in hundreds of pleasant hours tailoring this silky-software to bend to my exact needs in order for it to fit my specific system ~•~ the following review i left on launch day + it encapsulates my opinion of it then just as it does now, after many more seasons of use ~ the sheer delight of interacting w/ this program only ever grows w/ time + you are often reminded that the true power of anytype, the one that sits deep in its core, modularity, or fractalism, or breaking of the whole, down into its parts and connecting them all through relations, the mighty ~ below is my review left on producthunt the day of anytype&amp;rsquo;s public launch &#34;</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/review-ph/feature%20product%20hunt%20kitty9000.png" />
     </item>
     
     <item>
       <title>welcome, order</title>
-      <link>https://anytype.itslikesoup.net/posts/order/</link>
+      <link>https://anytype.itslikesoup.net/posts/welcome-order/</link>
       <pubDate>Sun, 11 Feb 2024 04:42:16 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/posts/order/</guid>
+      <guid>https://anytype.itslikesoup.net/posts/welcome-order/</guid>
       <description>the power of order # order is the soil from which all good things grow 🌱 it cultivates a controlled environment in which peace + focus can flourish, granting one the opportunity to spend their attention not on distractions but on building + creating 💐 order shifts the entropic state of a system away from chaos + randomness, restoring balance + harmony ⚖️ by gaining a greater grasp on the causes/input of a system, one is afforded more predictable, expected effects/outputs 🏭 in an ordered system, all individual pieces are fully accounted for where when viewed from above, the composition reveals the relations of all interconnected components comprising the whole 🧩 ma&amp;rsquo;at, goddess of order # long ago, in ancient egypt, no deity was more highly revered by the people + pharaohs than ma&#39;at, goddess of order ✨ she was said to have been created when ra, sun-god, arose from the waters of nun [chaos, a force they refered to as isfet] 🌪 it was thereafter that ma&#39;at continued to perpetuate the very balance of the universe by sustaining the harmony of its revolving planets that revealed the sun in the morning and the moon at night 🌛 since maat was the very embodiment of this incredible power, when believers would pray to her, they would more specifically pray that she bestows them with order, as that was the power to balance/battle the chaos/isfet embodied by their primary devil-figure, set, god of chaos 👹 this relationship of order vs chaos was so synonymous w/ good vs evil that maat was often used as a verb, where people would live life in maat/order 🌟</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/order/feature-ma%27at.webp" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/welcome-order/feature-ma%27at.webp" />
     </item>
     
   </channel>

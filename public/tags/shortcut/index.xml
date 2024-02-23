@@ -9,23 +9,23 @@
     <copyright>© 2024 kreme</copyright>
     <lastBuildDate>Sat, 17 Feb 2024 08:06:30 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/tags/shortcut/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>command-format text</title>
+      <title>format text-style</title>
       <link>https://anytype.itslikesoup.net/posts/format-text/</link>
       <pubDate>Sat, 17 Feb 2024 08:06:30 -0800</pubDate>
       
       <guid>https://anytype.itslikesoup.net/posts/format-text/</guid>
-      <description>all the ways to format text in a content block</description>
-      
+      <description>inside object-view, you&amp;rsquo;re able to format the text inside a content-box to many different styles</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/format-text/feature%20og~cycle~format.gif" />
     </item>
     
     <item>
       <title>zoom-out</title>
-      <link>https://anytype.itslikesoup.net/posts/003-~-zoom-out/</link>
+      <link>https://anytype.itslikesoup.net/posts/zoom-out/</link>
       <pubDate>Tue, 13 Feb 2024 14:37:27 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/posts/003-~-zoom-out/</guid>
-      <description>iphone zoom options # i apologe for the improper presentation here 🙏🏽 this should have been a simple image-slider/carousel so that you can clickly flick through the zoomed-in + zoomed-out views but i just spent hours tinkering the html, css + javascript code w/ claude.</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/003-~-zoom-out/feature%20land-zoom-out.gif" />
+      <guid>https://anytype.itslikesoup.net/posts/zoom-out/</guid>
+      <description>iphone zoom options # if you&#39;re an iphone user, the first time you powered up the machine that will become your closest ever friend, it asked you during the setup process how you&#39;d like your display ~</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/zoom-out/feature%20land-zoom-out.gif" />
     </item>
     
   </channel>

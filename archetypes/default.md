@@ -4,11 +4,18 @@ date: {{ .Date }}
 draft: false
 description: ""
 categories: [""]
-tags: [""]
-programs: [""]
-scopes: [""]
-guides: [""]
-functions: [""]
+tags:
+  -
+programs:
+  -
+scopes:
+  -
+journey:
+  -
+guides:
+  -
+functions:
+  -
 serial: ""
 slug: ""
 ver: "v1"

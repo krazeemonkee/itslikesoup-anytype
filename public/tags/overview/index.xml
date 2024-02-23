@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>🦅 overview on itslikesoup</title>
+    <link>https://anytype.itslikesoup.net/tags/overview/</link>
+    <description>Recent content in 🦅 overview on itslikesoup</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 kreme</copyright>
+    <lastBuildDate>Thu, 15 Feb 2024 21:11:57 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/tags/overview/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>view all objects *of a type*</title>
+      <link>https://anytype.itslikesoup.net/posts/005-~-view-all-objects-of-a-type/</link>
+      <pubDate>Thu, 15 Feb 2024 21:11:57 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/005-~-view-all-objects-of-a-type/</guid>
+      <description>this guide will show you first how to create a set for a particular object-type, then how to place a widget in the left side-panel so that you may quickly access it at anytime, from anywhere</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/005-~-view-all-objects-of-a-type/feature%20simba%20shadow.gif" />
+    </item>
+    
+    <item>
+      <title>view all objects</title>
+      <link>https://anytype.itslikesoup.net/posts/view-all-objects/</link>
+      <pubDate>Wed, 14 Feb 2024 21:11:49 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/view-all-objects/</guid>
+      <description> </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/view-all-objects/feature%20lion-king.gif" />
+    </item>
+    
+  </channel>
+</rss>
