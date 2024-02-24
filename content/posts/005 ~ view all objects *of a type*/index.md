@@ -22,6 +22,8 @@ slug: ""
 ver: "v1"
 changes: ""
 featuredImage: ""
+related:
+  - 004
 ---
 this guide will show you first how to create a set for a particular object-type, then how to place a widget in the left side-panel so that you may quickly access it at anytime, from anywhere
 

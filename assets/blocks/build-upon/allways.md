@@ -1,16 +1,16 @@
 # no drop-down, keyboard + mouse
 
-{{< alert icon="sun" iconColor="yellow" cardColor="#darkblue" textColor="fff8d6" >}}
-💠 <b style="color: red;">zoom in/out</b> <br>
-<ol>
-    <li> mouse
+{{< alert icon="sun" iconColor="yellow" cardColor="darkblue" textColor="fff8d6" >}}
+💠 <b style="color: red;">FUNCTION/PURPOSE</b> <br>
+<ul>
+    <li> 🐁 mouse
         <ol>
-            <li>1. <b style="color: yellow;">menu-bar</b> window > zoom-in >< zoom-out
+            <li>
         </ol>
-    <li> keyboard
+    <li> ⌨️ keyboard
         <ol>
-            <li>1. | ⌘ - | | ⌘ = | == zoom in/out
-        </ol>
+            <li>
+</ul>
 {{< /alert >}}
 
 # drop-down, 3 ways
@@ -42,4 +42,65 @@ in ⚛️ <b style="color: yellow;">object view</b> 👁
     1. <details><summary>🐁 mouse</summary><img src="img/guide/4a~create~widget~via~elipses~button.gif"></details>
 2. via the <code style="color: yellow;">widget/side-panel </code>
     1. <details><summary>🐁 mouse</summary><img src="img/guide/4b~add~widget~via~side-pannel.gif"></details>
+{{< /alert >}}
+
+
+
+
+{{< alert icon="sun" iconColor="yellow" cardColor="darkblue" textColor="fff8d6" >}}
+💠 <b style="color: red;">🧵 create 🖇 relation 📊 set</b> <br>
+<ul>
+    <ol>
+        <li> navigate to library page
+            <ul>
+                <li> <details><summary> via side-panel</summary>
+                    <ul>
+                        <li>⌨️ if configured to open/close on command
+                            <ul>
+                                <li> <code>⌘ .</code> // <code>⌘ \</code> == <code>open/close side-panel</code>
+                            </ul>
+                    </ul>
+                    <ul>
+                        <li>🐁 if configured to open/appear by mouse-summoning
+                            <ul>
+                                <li> <code>drag cursor to  left-edge of screen</code>
+                            </ul>
+                    </ul>
+                    <img src="img/1-1-side-panel.gif" style="padding: 0; margin: 0;">
+                    </details>
+              <li> <details><summary>via ⌨️ keyboard</summary>
+                <ul>
+                    <li><code>⌘ l</code> == <code>open library page</code>
+                    <li><code>⌘ ⌥ t</code> == <code>open relations panel</code>
+                <img src="img/1-2-keyboard.gif" style="padding: 0; margin: 0;">
+                    </details>
+                </ul>
+                <li> <details><summary>open relations pane</summary>
+                <img src="img/2-open-relations-pane.gif">
+                </details>
+                <li> <details><summary>search for relation</summary>
+                <img src="img/3-search-relation.gif">
+                </details>
+                <li> <details><summary>select relation</summary>
+                <img src="img/4-select-relation.gif">
+                </details>
+                <li> <details><summary>click/select "create set"</summary>
+                <img src="img/5-create-set.gif">
+                </details>
+                <li> <details><summary>configure title/icon [set-identity]</summary>
+                <img src="img/6-configure-set-identity.gif">
+                </details>
+            </ul>
+    </ol>
+    <b>entire process</b> <i style="color: #868686;">by path/route</i>
+            <ul>
+                <li> <details><summary>side-panel</summary>
+                <i style="color: #868686;">click vid/gif to enlarge</i>
+                <img src="img/mouse-set-created99.gif" style="margin: 0; padding: 0;">
+                </details>
+                <li> <details><summary>keyboard-shortcut</summary>
+                <img src="img/keyboard-process.gif" style="margin: 0; padding: 0;">
+                </details>
+            </ul>
+</ul>
 {{< /alert >}}
