@@ -26,7 +26,19 @@ changes: ""
 featuredImage: "https://kyojuuros.tumblr.com/post/685089475098034176/animations-daily-the-lion-king-1994-dir-rob"
 ---
 
+<p style="text-align: justify">out of the box, there is no root directory that allows you to view/access all your objects <i>or all objects of a particular type</i>, but you can easily create such an aggregated list referred to in <b><i>anytype</i></b>, as a <code>📊 set</code>
+</p>
 
+## create a set to view all objects
+
+<p style="text-align: justify">a <code>📊 set</code> starts out as an assortment of every single object that's an offspring of its parental <code>⚛️ object-type</code> ~ so, w/out applying any filters, a freshly created <code>📊 set</code> will  contain every single sibling-object of their parent's <code>⚛️ object-type</code> ~
+</p>
+
+### sorted by creation date
+
+### sorted by opened date
+
+### sorted by modified date
 
 
 <!-- scrap
@@ -202,22 +214,10 @@ groupable/sortable containers them in bins/containers according to a trait that'
 separate socks from tops
 
 
-<p style="text-align: justify">out of the box, there is no root directory that allows you to view/access all your objects or all objects of a particular type, but you can easily create such an assorted list, or as it's referred to in <b><i>anytype</i></b>, <code>📊 sets</code>
-
-a set starts out as an aggregate of every single object that's an instance of it's parent's object-type ~ it's every single object
-## create a set to view all objects
-
-
-
-### sorted by creation date
-
-### sorted by opened date
-
-### sorted by modified date
-
-
 
 >the next article will show how you can do the same thing but with all objects in your space, not just for a specific object-type</p>
+
+that's an instance of it's
 
 
 -->
