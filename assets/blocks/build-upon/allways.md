@@ -104,3 +104,20 @@ in ⚛️ <b style="color: yellow;">object view</b> 👁
             </ul>
 </ul>
 {{< /alert >}}
+
+
+
+
+
+
+{{< alert icon="sun" iconColor="yellow" cardColor="darkblue" textColor="fff8d6" >}}
+💠 <b style="color: red;">change [object-]type</b> <br>
+<ul>
+    <ul>
+        <li> from <code>👁 object-view</code>
+        <img src="img/change-to-dream.gif">
+    </ul>
+</ul>
+
+
+{{< /alert >}}
