@@ -28,6 +28,8 @@ related:
   - 005
   - 013
   - 012
+next:
+  - 010
 ---
 
 <p style="text-align: justify">out of the box, there is no root directory that allows you to view/access all your objects <i>or all objects of a particular type</i>, but you can easily create such an aggregated list referred to in <b><i>anytype</i></b>, as a <code>📊 set</code>
@@ -54,7 +56,7 @@ related:
 
 ### create relation sets
 
-<p style="text-align: justify">follow the following guide to create a set of relations for the three relations we discussed above: </p>
+<p style="text-align: justify">follow the guide below to create a set [of relations] for each of the three relations we discussed above: </p>
 <ul>
     <li> <code>🖇 creation date</code>
     <li> <code>🖇 last opened date</code>

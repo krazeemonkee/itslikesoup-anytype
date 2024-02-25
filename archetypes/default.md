@@ -3,7 +3,8 @@ title: "{{ .Name }}"
 date: {{ .Date }}
 draft: false
 description: ""
-categories: [""]
+categories:
+  -
 tags:
   -
 programs:
@@ -21,6 +22,8 @@ slug: ""
 ver: "v1"
 changes: ""
 featuredImage: ""
+related:
+  -
 ---
 
 

@@ -1,7 +1,7 @@
 ---
 # title: "my top/most used shortcuts"
 # title: "my most used shortcuts"
-title: "shortcuts report"
+title: "🎯 shortcuts report"
 date: 2024-02-18T16:48:23-08:00
 draft: false
 description: ""
@@ -28,6 +28,8 @@ featuredImage: ""
 - <code>esc</code> == <code>exit scope</code>
 - <code>⌘ n</code> == <code>new object</code>
 - <code>⌘ 0-9</code> == <code>format text-style</code>
+- <code>⌘ ⇧ ↑/↓ </code> == <code>move content-block up/down</code>
+- <code>⌥ ↑/↓ </code> == <code>open/close toggle-text</code>
 
 2. <span style="color: chartreuse;">intend to incorporate</span>
 - <code>⌘ ⇧ r</code> == <code>open relation-pane</code>

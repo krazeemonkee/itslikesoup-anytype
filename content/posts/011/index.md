@@ -9,7 +9,7 @@ programs: [""]
 scopes: [""]
 guides: [""]
 functions: [""]
-serial: ""
+serial: "011"
 slug: ""
 ver: "v1"
 changes: ""
