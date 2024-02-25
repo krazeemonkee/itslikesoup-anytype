@@ -87,39 +87,5 @@ continue/bump/update/expand/build-upon ~•~ soon ~•~
 ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
-009~ object | dream journal
-
-
-how do you know you're not in a simulation?
-how do you know you're not dreaming?
-
-just as you often don't know you're dreaming,
-you might not know you're in some sort of simulation
-
-lucid dreams have always fascinated me
-
-few things interest me more in this life than lucid dreaming ~ to gain awareness that you're dreaming, granting you powers of genie where what you wish, becomes so ~
-
- that is to gain lucidity ~ again, to gain lucidity in a dream, once first realize they are dreaming ~ in order to gain
-
-</i> <span style="color: yellow;">just as we wish to live our <i>dream-life</i></span>,<span style="color: red;"> we can equally live <i>a life in our dreams</i></span> ~
-
-unless you choose to charge it away from your bed to establish a mental distance from
-
-## object-type ~ dream-journal
-
-<li> from relations-pane
-    <ol>
-        <li> <ref="open relations allways"> open relations-pane
-            <ul>
-                <li><details><summary> ⌨️ keyboad </summary>
-                <code>⌘ ⇧ r</code> == <code>open relations-pane</code>
-                </details>
-                <li><details><summary>🐁 mouse</summary>click on <code>🖇 relations</code> icon in the top-right of <code>⚛️ object-view</code>
-                </details>
-            </ul>
-
-![](img/change-to-dream.gif)
-
 
 -->

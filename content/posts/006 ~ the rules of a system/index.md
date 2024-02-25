@@ -36,33 +36,9 @@ featuredImage: "http://www.trickartt.com/notes/tag/gif/"
 
 
 
-<!-- scrap
+<!-- scraps
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
-
-the most defining aspect of a system lies in it's systemized
-
-what defines a system is a set of rules
-
-a system is defined by a predefined set of rules, where once adhered to by it's operators, /upheld, upholding
-
-a system is defined by a set of rules, where once followed by it's operators, an expected output can  /upheld, upholding
-
-a system is defined by a known input following set of rules, where once followed by it's operators, an expected output can  /upheld, upholding
-
- acts on a known input where once followed by it's operators, an expected output can  /upheld, upholding
-
-a system is defined by the set of rules it follows on a known input to produce a consistant, expected output ~ by design, a system is perpetual
-
-a system is defined by the set of rules it follows on a known input to produce a consistant, expected output ~ by design, a system is perpetual
-by design
-
-it's a subtle distinction but creating a system to produce a result is always a more preferable choice than
-
-<p style="text-align: justify">in this series, i will be compiling some of the rules from my system that injects order through consistency as the scale of content scales w/ time ~
-
-006 ~ naming | object vs sets
-
 
 -->

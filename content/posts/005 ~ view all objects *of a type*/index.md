@@ -85,29 +85,4 @@ redo or maybe have image carousel... slow your ponies...
 ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
-where are my notes?
-
-you may get a sense of [things being lost // unable to be found] when you first start using <b><i>anytype</i></b> ~
-
-{{< lead >}}
-🤷🏻‍♂️ <i>i created a note but where did it go + how can i recall/retrieve it?</i>
-{{< /lead >}}
-
-
-<p style="text-align: justify">that note, an <code> ⚛️ object</code>, lives w/ all the other objects of its same type within your <code>🌌 space</code> [where all of your objects, <i>of all types</i>, live]</p>
-
-
-<p style="text-align: justify">out of the box, there is no root directory you can access/view all your objects or all objects of a particular type, but you can easily create such a list that displays all of your objects or specific object-type ~ in <b><i>anytype</i></b>, these are called <code>📊 sets</code><p>
-
-><p style="text-align: justify">this article will discuss how to create a <code>📊 set</code> of a particular <code>⚛️ object-type</code> + place it in your widget/side-panel for quick-access ~•~ the following article will show how you can do the same thing but with all objects in your space, not just for a specific object-type</p>
-
-## create <span style="color: aqua;">📊 set</span>/list for a specific <span style="color: aqua;">⚛️ object</span>-type
-
-
-## <span style="color: aqua;">📊 set</span>/list of <span style="color: aqua;">💠 all</span> <span style="color: aqua;">⚛️ objects</span>
-<style>
-
-## create <span style="color: aqua;">set</span> of <span style="color: aqua;">object-type</span>
-
-
 -->

@@ -57,7 +57,4 @@ featuredImage: ""
 ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
-    <li> highlight text you wish to <a href="https://i.makeagif.com/media/8-02-2015/a-yu5C.gif" target="_blank">hyperlink</a>
-
-
 -->

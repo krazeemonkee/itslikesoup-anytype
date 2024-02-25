@@ -43,11 +43,5 @@ featuredImage: ""
 ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ • ~ •
 ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~ ~
 
-<span style="color: red;"> </span>
-
-1. <span style="color: red;">top tier</span>
-
-008 ~ top shortcuts
-
 
 -->
