@@ -7,15 +7,15 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 kreme</copyright>
-    <lastBuildDate>Wed, 14 Feb 2024 21:11:49 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 23 Feb 2024 14:48:58 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/categories/tricks/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>hack-sort</title>
-      <link>https://anytype.itslikesoup.net/posts/004-~-hack-sort/</link>
-      <pubDate>Wed, 14 Feb 2024 21:11:49 -0800</pubDate>
+      <title>hyperlink paste</title>
+      <link>https://anytype.itslikesoup.net/posts/hyperlink-paste/</link>
+      <pubDate>Fri, 23 Feb 2024 14:48:58 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/posts/004-~-hack-sort/</guid>
-      <description> </description>
-      
+      <guid>https://anytype.itslikesoup.net/posts/hyperlink-paste/</guid>
+      <description>🗜 hyperlink paste once hyperlink is copied to clipboard</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/hyperlink-paste/feature%20link-default-styling-example.gif" />
     </item>
     
   </channel>

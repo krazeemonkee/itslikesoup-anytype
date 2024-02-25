@@ -3,19 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>https://anytype.itslikesoup.net/posts/house-of-objects/</loc>
-    <lastmod>2024-02-22T10:34:47-08:00</lastmod>
+    <loc>https://anytype.itslikesoup.net/posts/014-~-add-object-as-widget-in-side-panel/</loc>
+    <lastmod>2024-02-24T11:30:46-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://anytype.itslikesoup.net/</loc>
-    <lastmod>2024-02-22T10:34:47-08:00</lastmod>
+    <lastmod>2024-02-24T11:30:46-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>https://anytype.itslikesoup.net/posts/</loc>
+    <lastmod>2024-02-24T11:30:46-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://anytype.itslikesoup.net/posts/hyperlink-paste/</loc>
+    <lastmod>2024-02-23T14:48:58-08:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>https://anytype.itslikesoup.net/posts/house-of-objects/</loc>
     <lastmod>2024-02-22T10:34:47-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -27,7 +39,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://anytype.itslikesoup.net/posts/010/</loc>
+    <loc>https://anytype.itslikesoup.net/posts/2-sorts/</loc>
     <lastmod>2024-02-20T11:17:38-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -39,7 +51,7 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://anytype.itslikesoup.net/posts/008-~-top-shortcuts/</loc>
+    <loc>https://anytype.itslikesoup.net/posts/shortcuts-report/</loc>
     <lastmod>2024-02-18T16:48:23-08:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

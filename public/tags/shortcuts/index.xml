@@ -9,13 +9,13 @@
     <copyright>© 2024 kreme</copyright>
     <lastBuildDate>Sun, 18 Feb 2024 16:48:23 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/tags/shortcuts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>my most used shortcuts</title>
-      <link>https://anytype.itslikesoup.net/posts/008-~-top-shortcuts/</link>
+      <title>🎯 shortcuts report</title>
+      <link>https://anytype.itslikesoup.net/posts/shortcuts-report/</link>
       <pubDate>Sun, 18 Feb 2024 16:48:23 -0800</pubDate>
       
-      <guid>https://anytype.itslikesoup.net/posts/008-~-top-shortcuts/</guid>
-      <description> use often esc == exit scope ⌘ n == new object ⌘ 0-9 == format text-style intend to incorporate ⌘ ⇧ r == open relation-pane to fix breaks ⌘ - == zoom-out if i enter ⌘ 0 to format text-style: text, the same key combination also doubles as the output default zoom so i must use this shortcut following ⌘ 0 to zoom-out </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/008-~-top-shortcuts/feature%20typing-anime.gif" />
+      <guid>https://anytype.itslikesoup.net/posts/shortcuts-report/</guid>
+      <description> use often esc == exit scope ⌘ n == new object ⌘ 0-9 == format text-style ⌘ ⇧ ↑/↓ == move content-block up/down ⌥ ↑/↓ == open/close toggle-text intend to incorporate ⌘ ⇧ r == open relation-pane to fix breaks ⌘ - == zoom-out when i enter ⌘ 0 to format text-style: text, the same key combination also doubles as the output default zoom so i must use this shortcut following ⌘ 0 to zoom-out </description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/shortcuts-report/feature%20typing-anime.gif" />
     </item>
     
   </channel>
