@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 kreme</copyright>
-    <lastBuildDate>Sat, 17 Feb 2024 08:06:30 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/tags/shortcut/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 Feb 2024 11:30:46 -0800</lastBuildDate><atom:link href="https://anytype.itslikesoup.net/tags/shortcut/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>quick highlight all</title>
+      <link>https://anytype.itslikesoup.net/posts/quick-highlight-all/</link>
+      <pubDate>Sat, 24 Feb 2024 11:30:46 -0800</pubDate>
+      
+      <guid>https://anytype.itslikesoup.net/posts/quick-highlight-all/</guid>
+      <description>cmnd~ a once, highlight all text in content-box cmnd~ a again, highlight text of entire object</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://anytype.itslikesoup.net/posts/quick-highlight-all/feature%20ron%20conch.gif" />
+    </item>
+    
     <item>
       <title>format text-style</title>
       <link>https://anytype.itslikesoup.net/posts/format-text/</link>

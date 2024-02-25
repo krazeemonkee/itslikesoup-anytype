@@ -1,7 +1,8 @@
 ---
 # title: "2 essential sorts in every set"
 # title: "my 2 go-to sorts for every set"
-title: "the 2 essential sorts"
+# title: "the 2 essential sorts"
+title: "2 essential sorts"
 date: 2024-02-20T11:17:38-08:00
 draft: false
 description: ""
