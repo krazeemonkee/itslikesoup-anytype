@@ -1,5 +1,5 @@
 ---
-title: "quick highlight all"
+title: "quick highlight-all"
 date: 2024-02-24T11:30:46-08:00
 draft: false
 description: ""

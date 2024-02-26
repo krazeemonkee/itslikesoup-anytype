@@ -7,8 +7,8 @@ categories:
   -
 tags:
   -
-programs:
-  -
+#programs:
+#  - anytype
 scopes:
   -
 journey:
